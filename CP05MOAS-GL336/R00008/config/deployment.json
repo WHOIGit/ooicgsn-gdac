@@ -1,0 +1,23 @@
+{
+    "glider": "cp_336",
+    "global_attributes": {
+        "comment": "Deployment summary: This glider was deployed to the Frontal Zone 2 (FZ-2) line 2019-04-08T00:14:00 UTC and recovered 2019-04-08T10:56:00 UTC. This glider was recovered shortly after deployment due to pump calibration issues.",
+        "deployment_number": "00008",
+        "hydrographic_line": "Frontal Zone 2 (FZ-2)",
+        "platform_id": "cp_336",
+        "OOI_reference_designator": "CP05MOAS-GL336",
+        "OOI_platform_type": "OOI Costal Pioneer 1000m Glider",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/CP05MOAS-GL336/R00008/",
+        "wmo_id": "4801955",
+        "mode": "delayed"
+    },
+    "platform": {
+        "comment":  "",
+        "long_name": "OOI Coastal Pioneer 1000m Slocum Glider cp_336",
+        "id": "cp_336",
+        "type": "platform",
+        "wmo_id": "4801955"
+    },
+    "trajectory_datetime": "2019-04-08T00:14:00Z",
+    "trajectory_name": "cp_336-20190408T0014"
+}

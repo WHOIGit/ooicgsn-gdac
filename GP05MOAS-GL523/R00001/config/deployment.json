@@ -1,0 +1,23 @@
+{
+    "glider": "gp_523",
+    "global_attributes": {
+        "comment": "",
+        "deployment_number": "00001",
+        "hydrographic_line": "",
+        "platform_id": "gp_523",
+        "OOI_reference_designator": "GP05MOAS-GL523",
+        "OOI_platform_type": "OOI Global Station Papa 1000m Open Ocean Glider",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/GP05MOAS-GL523/R00001/",
+        "wmo_id": "",
+        "mode": "delayed"
+    },
+    "platform": {
+        "comment": "",
+        "long_name": "OOI Global Station Papa 1000m Open Ocean Slocum Glider gp_523",
+        "id": "gp_523",
+        "type": "platform",
+        "wmo_id": ""
+    },
+    "trajectory_datetime": "2015-06-02T04:40:00Z",
+    "trajectory_name": "gp_523-20150602T0440"
+}

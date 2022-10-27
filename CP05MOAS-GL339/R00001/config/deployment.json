@@ -1,0 +1,23 @@
+{
+    "glider": "cp_339",
+    "global_attributes": {
+        "comment": "",
+        "deployment_number": "00001",
+        "hydrographic_line": "Eastern Boundary (EB)",
+        "platform_id": "cp_339",
+        "OOI_reference_designator": "CP05MOAS-GL339",
+        "OOI_platform_type": "OOI Costal Pioneer 200m Glider",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/CP05MOAS-GL339/R00001/",
+        "wmo_id": "4801957",
+        "mode": "delayed"
+    },
+    "platform": {
+        "comment": "",
+        "long_name": "OOI Coastal Pioneer 200m Slocum Glider cp_339",
+        "id": "cp_339",
+        "type": "platform",
+        "wmo_id": "4801957"
+    },
+    "trajectory_datetime": "2015-01-12T06:01:00Z",
+    "trajectory_name": "cp_339-20150112T0601"
+}

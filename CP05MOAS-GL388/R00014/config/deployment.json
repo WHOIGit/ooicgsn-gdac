@@ -1,0 +1,23 @@
+{
+    "glider": "cp_388",
+    "global_attributes": {
+        "comment": "Glider spent a significant portion of deployment off of the SS-1 line and was recovered early due to steering issues.",
+        "deployment_number": "00014",
+        "hydrographic_line": "Slope Sea 1 (SS-1)",
+        "platform_id": "cp_388",
+        "OOI_reference_designator": "CP05MOAS-GL388",
+        "OOI_platform_type": "OOI Costal Pioneer 1000m Glider",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/CP05MOAS-GL388/R00014/",
+        "wmo_id": "4801956",
+        "mode": "delayed"
+    },
+    "platform": {
+        "comment":  "",
+        "long_name": "OOI Coastal Pioneer 1000m Slocum Glider cp_388",
+        "id": "cp_388",
+        "type": "platform",
+        "wmo_id": "4801956"
+    },
+    "trajectory_datetime": "2022-04-11T16:24:00Z",
+    "trajectory_name": "cp_388-20220411T1624"
+}

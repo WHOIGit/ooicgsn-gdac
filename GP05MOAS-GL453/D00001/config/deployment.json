@@ -1,0 +1,23 @@
+{
+    "glider": "gp_453",
+    "global_attributes": {
+        "comment": "No recovered data available for this deployment. Telem data submitted instead.",
+        "deployment_number": "00001",
+        "hydrographic_line": "",
+        "platform_id": "gp_453",
+        "OOI_reference_designator": "GP05MOAS-GL453",
+        "OOI_platform_type": "OOI Global Station Papa 1000m Open Ocean Glider",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/GP05MOAS-GL453/D00001/",
+        "wmo_id": "",
+        "mode": "rt"
+    },
+    "platform": {
+        "comment": "",
+        "long_name": "OOI Global Station Papa 1000m Open Ocean Slocum Glider gp_453",
+        "id": "gp_453",
+        "type": "platform",
+        "wmo_id": ""
+    },
+    "trajectory_datetime": "2014-08-30T00:51:00Z",
+    "trajectory_name": "gp_453-20140830T0051"
+}

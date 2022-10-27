@@ -1,0 +1,21 @@
+{
+    "glider": "cp_514",
+    "global_attributes": {
+        "comment": "",
+        "deployment_number": "00001",
+        "hydrographic_line": "Frontal Zone 1 (FZ-1)",
+        "platform_id": "CP05MOAS-GL514",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/CP05MOAS-GL514/D00001/",
+        "wmo_id": "",
+        "mode": "rt"
+    },
+    "platform": {
+        "comment": " ",
+        "long_name": "OOI Pioneer Slocum Glider cp_514",
+        "id": "CP05MOAS-GL514",
+        "type": "platform",
+        "wmo_id": ""
+    },
+    "trajectory_datetime": "2020-03-02T09:58:39Z",
+    "trajectory_name": "cp_379-20200302T0958"
+}

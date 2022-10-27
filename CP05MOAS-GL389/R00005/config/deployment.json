@@ -1,0 +1,23 @@
+{
+    "glider": "cp_389",
+    "global_attributes": {
+        "comment": "",
+        "deployment_number": "00005",
+        "hydrographic_line": "Frontal Zone 2 (FZ-2)",
+        "platform_id": "cp_389",
+        "OOI_reference_designator": "CP05MOAS-GL389",
+        "OOI_platform_type": "OOI Costal Pioneer 1000m Glider",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/CP05MOAS-GL389/R00005/",
+        "wmo_id": "4801973",
+        "mode": "delayed"
+    },
+    "platform": {
+        "comment":  "",
+        "long_name": "OOI Coastal Pioneer 1000m Slocum Glider cp_389",
+        "id": "cp_389",
+        "type": "platform",
+        "wmo_id": "4801973"
+    },
+    "trajectory_datetime": "2018-07-24T16:20:30Z",
+    "trajectory_name": "cp_389-20180724T1620"
+}

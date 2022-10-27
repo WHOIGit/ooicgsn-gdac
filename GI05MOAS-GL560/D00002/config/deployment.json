@@ -1,0 +1,23 @@
+{
+    "glider": "gi_560",
+    "global_attributes": {
+        "comment": "Deployment summary: This glider was deployed to the Irminger Sea Array 2019-08-06T18:05:00 UTC and was lost at sea 2020-02-08. This glider experienced earlier than anticipated battery depletion and was put in surface drift mode 2020-02-03. This glider was deployed with a slightly modified optode to improve calibration by exposing it to air. The optode mount was moved to a spot slightly forward of the glider's fin and oriented so that the optode would be above the waterline when the glider was at the surface. The optode remained powered and logging during the air surface intervals, and glider sensor logging was changed from descent-only to ascent-only to avoid sensor lag artifacts when moving from air to water. Optode sampling frequency was increased from 60 seconds to 30 seconds, to improve vertical resolution. The science bay began generating errors stemming from the optode on 2019-10-13 so the optode was disabled for the remainder of the deployment.",
+        "deployment_number": "00002",
+        "hydrographic_line": "",
+        "platform_id": "gi_560",
+        "OOI_reference_designator": "GI05MOAS-GL560",
+        "OOI_platform_type": "OOI Global Irminger Sea 1000m Open Ocean Glider",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/GI05MOAS-GL560/D00002/",
+        "wmo_id": "6801740",
+        "mode": "rt"
+    },
+    "platform": {
+        "comment": "",
+        "long_name": "OOI Global Irminger Sea 1000m Open Ocean Slocum Glider gi_560",
+        "id": "gi_560",
+        "type": "platform",
+        "wmo_id": "6801740"
+    },
+    "trajectory_datetime": "2019-08-06T18:05:00Z",
+    "trajectory_name": "gi_560-20190806T1805"
+}

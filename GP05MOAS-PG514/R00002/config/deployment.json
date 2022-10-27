@@ -1,0 +1,23 @@
+{
+    "glider": "gp_514",
+    "global_attributes": {
+        "comment": "Glider deployed without PAR and FLORTO.",
+        "deployment_number": "00002",
+        "hydrographic_line": "",
+        "platform_id": "gp_514",
+        "OOI_reference_designator": "GP05MOAS-PG514",
+        "OOI_platform_type": "OOI Global Irminger Sea 1000m Profiling Glider",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/GP05MOAS-PG514/R00002/",
+        "wmo_id": "4801997",
+        "mode": "delayed"
+    },
+    "platform": {
+        "comment": "",
+        "long_name": "OOI Global Irminger Sea 1000m Profiling Slocum Glider gp_514",
+        "id": "gp_514",
+        "type": "platform",
+        "wmo_id": "4801997"
+    },
+    "trajectory_datetime": "2015-06-02T10:00:00Z",
+    "trajectory_name": "gp_514-20150602T1000"
+}

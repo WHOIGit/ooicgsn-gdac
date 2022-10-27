@@ -1,0 +1,23 @@
+{
+    "glider": "cp_340",
+    "global_attributes": {
+        "comment": "Deployment summary: This glider was deployed to the Eastern Boundary (EB) line 2019-09-27T12:26:00 UTC and recovered 2019-11-05T15:00:21 UTC. The glider often experienced strong currents and had difficulty maintaining the EB line. On 2019-10-26 the glider experienced a GPS issue and was drifted on the surface until recovery.",
+        "deployment_number": "00009",
+        "hydrographic_line": "Eastern Boundary (EB)",
+        "platform_id": "cp_340",
+        "OOI_reference_designator": "CP05MOAS-GL340",
+        "OOI_platform_type": "OOI Costal Pioneer 200m Glider",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/CP05MOAS-GL340/R00009/",
+        "wmo_id": "4801968",
+        "mode": "delayed"
+    },
+    "platform": {
+        "comment": "",
+        "long_name": "OOI Costal Pioneer 200m Slocum Glider cp_340",
+        "id": "cp_340",
+        "type": "platform",
+        "wmo_id": "4801968"
+    },
+    "trajectory_datetime": "2019-09-27T12:26:00Z",
+    "trajectory_name": "cp_340-20190927T1226"
+}

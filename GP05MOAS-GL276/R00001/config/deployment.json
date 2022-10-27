@@ -1,0 +1,23 @@
+{
+    "glider": "gp_276",
+    "global_attributes": {
+        "comment": "OOI Open Ocean Gliders are typically deployed with a WET Labs ECO Puck FLBB (FLORD - 2 Channel), but this glider was deployed with a WET Labs ECO Puck FLBBCD (FLORT - 3 Channel).",
+        "deployment_number": "00001",
+        "hydrographic_line": "",
+        "platform_id": "gp_276",
+        "OOI_reference_designator": "GP05MOAS-GL276",
+        "OOI_platform_type": "OOI Global Station Papa 1000m Open Ocean Glider",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/GP05MOAS-GL276/R00001/",
+        "wmo_id": "4801991",
+        "mode": "delayed"
+    },
+    "platform": {
+        "comment": "",
+        "long_name": "OOI Global Station Papa 1000m Open Ocean Slocum Glider gp_276",
+        "id": "gp_276",
+        "type": "platform",
+        "wmo_id": "4801991"
+    },
+    "trajectory_datetime": "2014-06-15T05:33:44Z",
+    "trajectory_name": "gp_276-20140615T0533"
+}

@@ -1,0 +1,23 @@
+{
+    "glider": "gi_469",
+    "global_attributes": {
+        "comment": "This glider was deployed with a slightly modified optode to improve calibration by exposing it to air. The optode mount was moved to a spot slightly forward of the glider's fin and oriented so that the optode would be above the waterline when the glider was at the surface. The optode remains powered and logging during the air surface intervals before beginning a dive. Glider was lost at sea. No recovered data expected.",
+        "deployment_number": "00004",
+        "hydrographic_line": "",
+        "platform_id": "gi_469",
+        "OOI_reference_designator": "GI05MOAS-GL469",
+        "OOI_platform_type": "OOI Global Irminger Sea 1000m Open Ocean Glider",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/GI05MOAS-GL469/D00004/",
+        "wmo_id": "6801724",
+        "mode": "rt"
+    },
+    "platform": {
+        "comment": "",
+        "long_name": "OOI Global Irminger Sea 1000m Open Ocean Slocum Glider gi_469",
+        "id": "gi_469",
+        "type": "platform",
+        "wmo_id": "6801724"
+    },
+    "trajectory_datetime": "2021-08-11T04:04:00Z",
+    "trajectory_name": "gi_469-20210811T0404"
+}

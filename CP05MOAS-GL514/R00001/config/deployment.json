@@ -1,0 +1,23 @@
+{
+    "glider": "cp_514",
+    "global_attributes": {
+        "comment": "Deployment summary: This glider was deployed to the Frontal Zone 1 (FZ-1) line 2020-03-02T09:59:39 UTC and recovered 2020-05-22T17:43:33 UTC. The DVL was disabled on 2020-04-17, the optode on 2020-05-04 and the remaining sensors on 2020-05-08 to conserve battery power. The glider was restricted to deeper water on the southern portion of the FZ line (SW to SE) after 2020-05-04 to limit pump inflections. This was a relatively normal deployment.",
+        "deployment_number": "00001",
+        "hydrographic_line": "Frontal Zone 1 (FZ-1)",
+        "platform_id": "cp_514",
+        "OOI_reference_designator": "CP05MOAS-GL514",
+        "OOI_platform_type": "OOI Costal Pioneer 1000m Glider",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/CP05MOAS-GL514/R00001/",
+        "wmo_id": "4802972",
+        "mode": "delayed"
+    },
+    "platform": {
+        "comment": "",
+        "long_name": "OOI Coastal Pioneer 1000m Slocum Glider cp_514",
+        "id": "cp_514",
+        "type": "platform",
+        "wmo_id": "4802972"
+    },
+    "trajectory_datetime": "2020-03-02T09:58:39Z",
+    "trajectory_name": "cp_514-20200302T0958"
+}

@@ -1,0 +1,23 @@
+{
+    "glider": "cp_388",
+    "global_attributes": {
+        "comment": "Deployment summary: This glider was deployed 2019-12-12 22:47:17 UTC and recovered 2020-03-02 06:49:00 UTC. It was initially deployed to the Frontal Zone 1 (FZ-1) line but exhibited poor steering performance shortly after deployment so it was re-assigned to the Slope Sea 1 (SS-1) line. The glider continued to exhibit poor steering ability throughout the deployment and often overshot waypoints or failed to maintain the SS-1 trackline. The DVL was disabled 2020-02-04 to conserve battery power. Otherwise, this was a relatively normal deployment.",
+        "deployment_number": "00009",
+        "hydrographic_line": "Slope Sea 1 (SS-1)",
+        "platform_id": "cp_388",
+        "OOI_reference_designator": "CP05MOAS-GL388",
+        "OOI_platform_type": "OOI Costal Pioneer 1000m Glider",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/CP05MOAS-GL388/D00009/",
+        "wmo_id": "4801956",
+        "mode": "delayed"
+    },
+    "platform": {
+        "comment": "",
+        "long_name": "OOI Coastal Pioneer Slocum Glider cp_388",
+        "id": "cp_388",
+        "type": "platform",
+        "wmo_id": "4801956"
+    },
+    "trajectory_datetime": "2019-12-12T22:47:17Z",
+    "trajectory_name": "cp_388-20191212T2247"
+}

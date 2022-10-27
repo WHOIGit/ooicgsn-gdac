@@ -1,0 +1,23 @@
+{
+    "glider": "gi_525",
+    "global_attributes": {
+        "comment": "",
+        "deployment_number": "00003",
+        "hydrographic_line": "",
+        "platform_id": "gi_525",
+        "OOI_reference_designator": "GI05MOAS-GL525",
+        "OOI_platform_type": "OOI Global Irminger Sea 1000m Open Ocean Glider",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/GI05MOAS-GL525/D00003/",
+        "wmo_id": "6801739",
+        "mode": "rt"
+    },
+    "platform": {
+        "comment": "",
+        "long_name": "OOI Global Irminger Sea 1000m Open Ocean Slocum Glider gi_525",
+        "id": "gi_525",
+        "type": "platform",
+        "wmo_id": "6801739"
+    },
+    "trajectory_datetime": "2022-06-28T16:58:00Z",
+    "trajectory_name": "gi_525-20220628T1658"
+}

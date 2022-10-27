@@ -1,0 +1,23 @@
+{
+    "glider": "gp_575",
+    "global_attributes": {
+        "comment": "Deployment summary: This glider was deployed to the Station Papa Array 2019-09-30T01:47:00 UTC and recovered 2020-06-06T16:10:03 UTC. On 2019-12-27 the science computer began reporting errors from the SUNA nitrate sensor (these data are not ingested into the DAC but they are available from the OOI data portal) and this sampling for this sensor was disabled. On 2020-04-21 the glider was commanded to depart the Papa Array and fly toward Oregon to maximize recovery options as the 2020 Station Papa cruise was postponed due to COVID-related concerns. Science sensors continued to sample on the swim to Oregon until 2020-05-22 when the glider was struck by an unidentified object and could no longer dive. It was put in surface drift mode until recovery.",
+        "deployment_number": "00002",
+        "hydrographic_line": "",
+        "platform_id": "gp_575",
+        "OOI_reference_designator": "GP05MOAS-PG575",
+        "OOI_platform_type": "OOI Global Irminger Sea 1000m Profiling Glider",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/GP05MOAS-PG575/R00002/",
+        "wmo_id": "4801999",
+        "mode": "delayed"
+    },
+    "platform": {
+        "comment": "",
+        "long_name": "OOI Global Irminger Sea 1000m Profiling Slocum Glider gp_575",
+        "id": "gp_575",
+        "type": "platform",
+        "wmo_id": "4801999"
+    },
+    "trajectory_datetime": "2019-09-30T01:47:00Z",
+    "trajectory_name": "gp_575-20190930T0147"
+}

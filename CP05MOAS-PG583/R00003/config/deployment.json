@@ -1,0 +1,23 @@
+{
+    "glider": "cp_583",
+    "global_attributes": {
+        "comment": "This deployment was designed to help fill the void left by the OOI Central Profiler Mooring which is typically not deployed to the Pioneer Array in the Summer. CNPM was recovered 2020-06-14 and this glider was initially deployed 2020-06-13, however it was recovered 2020-07-31 after its ballast became too heavy for the surface water conditions. It was re-ballasted and deployed again on 2020-08-19. Ideally, an additional profiler glider would have been deployed to also replace the Inshore Profiler Mooring (ISPM), which is also not deploeyd in the summer, but this glider will periodically shuttle between the CNPM and ISPM locations. While the glider is at each profiler mooring location, it will shuttle between two waypoints about 2nmi apart and sample science on the descent of every 15th yo.",
+        "deployment_number": "00003",
+        "hydrographic_line": "Central Profiler Mooring (CNPM)",
+        "platform_id": "cp_583",
+        "OOI_reference_designator": "CP05MOAS-PG583",
+        "OOI_platform_type": "OOI Costal Pioneer 200m Profiling Glider",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/CP05MOAS-PG583/R00003/",
+        "wmo_id": "4801990",
+        "mode": "delayed"
+    },
+    "platform": {
+        "comment": "",
+        "long_name": "OOI Coastal Pioneer 200m Profiling Slocum Glider cp_583",
+        "id": "cp_583",
+        "type": "platform",
+        "wmo_id": "4801990"
+    },
+    "trajectory_datetime": "2020-08-19T19:25:00Z",
+    "trajectory_name": "cp_583-20200819T1925"
+}

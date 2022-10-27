@@ -1,0 +1,23 @@
+{
+    "glider": "cp_376",
+    "global_attributes": {
+        "comment": "Deployment summary: Deployment summary: This glider was deployed to the Frontal Zone 2 (FZ-2) line 2019-06-18T23:36:35 UTC and recovered 2019-06-26T18:45:00 UTC. The glider began exhibiting communication issues and could not hold an Iridium phone call shortly after deployment so it was recovered early for troubleshooting.",
+        "deployment_number": "00010",
+        "hydrographic_line": "Frontal Zone 2 (FZ-2)",
+        "platform_id": "cp_376",
+        "OOI_reference_designator": "CP05MOAS-GL376",
+        "OOI_platform_type": "OOI Costal Pioneer 1000m Glider",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/CP05MOAS-GL376/R00010/",
+        "wmo_id": "4801970",
+        "mode": "delayed"
+    },
+    "platform": {
+        "comment": "",
+        "long_name": "OOI Coastal Pioneer 1000m Slocum Glider cp_376",
+        "id": "cp_376",
+        "type": "platform",
+        "wmo_id": "4801970"
+    },
+    "trajectory_datetime": "2019-06-18T23:36:35Z",
+    "trajectory_name": "cp_376-20190618T2336"
+}

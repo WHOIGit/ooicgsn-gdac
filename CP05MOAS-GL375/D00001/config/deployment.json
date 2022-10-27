@@ -1,0 +1,23 @@
+{
+    "glider": "cp_375",
+    "global_attributes": {
+        "comment": "Glider lost at sea. No recovered data expected. It is unknown which Optode was deployed on this glider.",
+        "deployment_number": "00001",
+        "hydrographic_line": "Frontal Zone 1 (FZ-1)",
+        "platform_id": "cp_375",
+        "OOI_reference_designator": "CP05MOAS-GL375",
+        "OOI_platform_type": "OOI Costal Pioneer 200m Glider",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/CP05MOAS-GL375/D00001/",
+        "wmo_id": "4801988",
+        "mode": "rt"
+    },
+    "platform": {
+        "comment": "",
+        "long_name": "OOI Coastal Pioneer 200m Slocum Glider cp_375",
+        "id": "cp_375",
+        "type": "platform",
+        "wmo_id": "4801988"
+    },
+    "trajectory_datetime": "2015-01-11T19:47:00Z",
+    "trajectory_name": "cp_375-20150111T1947"
+}

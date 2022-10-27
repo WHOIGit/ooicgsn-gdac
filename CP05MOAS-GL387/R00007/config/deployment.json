@@ -1,0 +1,23 @@
+{
+    "glider": "cp_387",
+    "global_attributes": {
+        "comment": "Deployment summary: This glider was deployed to the Frontal Zone 1 (FZ-1) line 2019-04-08T01:35:00 UTC and recovered 2019-06-18T10:34:00 UTC. The glider was periodically blown off course by strong currents. This was a normal deployment.",
+        "deployment_number": "00007",
+        "hydrographic_line": "Frontal Zone 1 (FZ-1)",
+        "platform_id": "cp_387",
+        "OOI_reference_designator": "CP05MOAS-GL387",
+        "OOI_platform_type": "OOI Costal Pioneer 1000m Glider",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/CP05MOAS-GL387/R00007/",
+        "wmo_id": "4801972",
+        "mode": "delayed"
+    },
+    "platform": {
+        "comment":  "",
+        "long_name": "OOI Coastal Pioneer 1000m Slocum Glider cp_387",
+        "id": "cp_387",
+        "type": "platform",
+        "wmo_id": "4801972"
+    },
+    "trajectory_datetime": "2019-04-08T01:35:00Z",
+    "trajectory_name": "cp_387-20190408T0135"
+}

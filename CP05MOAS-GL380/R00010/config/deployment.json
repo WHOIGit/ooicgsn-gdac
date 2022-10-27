@@ -1,0 +1,23 @@
+{
+    "glider": "cp_380",
+    "global_attributes": {
+        "comment": "Deployment Notes:  This glider's pressure sensor was broken on deployment so it was configured to fly using the CTD pressure sensor. The CTD was configured to also sample the climb to support this change. Science sampling for all sensors except the CTD was disabled 2021-01-22.",
+        "deployment_number": "00010",
+        "hydrographic_line": "Frontal Zone 1 (FZ-1)",
+        "platform_id": "cp_380",
+        "OOI_reference_designator": "CP05MOAS-GL380",
+        "OOI_platform_type": "OOI Costal Pioneer 1000m Glider",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/CP05MOAS-GL380/R00010/",
+        "wmo_id": "4801977",
+        "mode": "delayed"
+    },
+    "platform": {
+        "comment": "",
+        "long_name": "OOI Coastal Pioneer 1000m Slocum Glider cp_380",
+        "id": "cp_380",
+        "type": "platform",
+        "wmo_id": "4801977"
+    },
+    "trajectory_datetime": "2020-11-21T17:44:00Z",
+    "trajectory_name": "cp_380-20201121T1744"
+}

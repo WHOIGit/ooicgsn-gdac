@@ -1,0 +1,23 @@
+{
+    "glider": "cp_376",
+    "global_attributes": {
+        "comment": "Deployment 16: This glider's optode began malfunctioning on 2022-07-17 and it was disabled. No DOSTA data expected after this date. The FLORT and PAR were disabled 2022-08-26.",
+        "deployment_number": "00016",
+        "hydrographic_line": "Slope Sea 1 (SS-1)",
+        "platform_id": "cp_376",
+        "OOI_reference_designator": "CP05MOAS-GL376",
+        "OOI_platform_type": "OOI Costal Pioneer 1000m Glider",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/CP05MOAS-GL376/R00016/",
+        "wmo_id": "4801970",
+        "mode": "delayed"
+    },
+    "platform": {
+        "comment": "",
+        "long_name": "OOI Coastal Pioneer 1000m Slocum Glider cp_376",
+        "id": "cp_376",
+        "type": "platform",
+        "wmo_id": "4801970"
+    },
+    "trajectory_datetime": "2022-05-18T20:08:00Z",
+    "trajectory_name": "cp_376-20220518T2008"
+}

@@ -1,0 +1,23 @@
+{
+    "glider": "cp_380",
+    "global_attributes": {
+        "comment": "This glider was deployed with a slightly modified optode orientation to improve calibration by exposing it to air. The optode mount was moved to a spot slightly forward of the glider's fin and oriented so that the optode would be above the waterline when the glider was at the surface. The optode remains powered and logging during the air surface intervals.",
+        "deployment_number": "00011",
+        "hydrographic_line": "Frontal Zone 1 (FZ-1)",
+        "platform_id": "cp_380",
+        "OOI_reference_designator": "CP05MOAS-GL380",
+        "OOI_platform_type": "OOI Costal Pioneer 1000m Glider",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/CP05MOAS-GL380/D00011/",
+        "wmo_id": "4801977",
+        "mode": "rt"
+    },
+    "platform": {
+        "comment": "",
+        "long_name": "OOI Coastal Pioneer 1000m Slocum Glider cp_380",
+        "id": "cp_380",
+        "type": "platform",
+        "wmo_id": "4801977"
+    },
+    "trajectory_datetime": "2021-12-15T07:36:00Z",
+    "trajectory_name": "cp_380-20211215T0736"
+}

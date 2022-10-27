@@ -1,0 +1,23 @@
+{
+    "glider": "cp_388",
+    "global_attributes": {
+        "comment": "Deployment Summary: Data for all sensors intermittent beginning 5/24/2021 and missing altogether 5/26/2021 until 6/2/2021. Root cause determined to be a failing optode. The optode was disabled 6/2/2021. This glider was deployed with a slightly modified optode to improve calibration by exposing it to air. The optode mount was moved to a spot slightly forward of the glider's fin and oriented so that the optode would be above the waterline when the glider was at the surface. The optode remains powered and logging during the air surface intervals.",
+        "deployment_number": "00011",
+        "hydrographic_line": "Frontal Zone 1 (FZ-1)",
+        "platform_id": "cp_388",
+        "OOI_reference_designator": "CP05MOAS-GL388",
+        "OOI_platform_type": "OOI Costal Pioneer 1000m Glider",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/CP05MOAS-GL388/R00011/",
+        "wmo_id": "4801956",
+        "mode": "delayed"
+    },
+    "platform": {
+        "comment":  "",
+        "long_name": "OOI Coastal Pioneer 1000m Slocum Glider cp_388",
+        "id": "cp_388",
+        "type": "platform",
+        "wmo_id": "4801956"
+    },
+    "trajectory_datetime": "2021-05-17T20:25:00Z",
+    "trajectory_name": "cp_388-20210517T2025"
+}

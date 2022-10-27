@@ -1,0 +1,23 @@
+{
+    "glider": "gp_362",
+    "global_attributes": {
+        "comment": "Glider lost at sea. No recovered data expected.",
+        "deployment_number": "00001",
+        "hydrographic_line": "",
+        "platform_id": "gp_362",
+        "OOI_reference_designator": "GP05MOAS-GL362",
+        "OOI_platform_type": "OOI Global Station Papa 1000m Open Ocean Glider",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/GP05MOAS-GL362/D00001/",
+        "wmo_id": "4801993",
+        "mode": "rt"
+    },
+    "platform": {
+        "comment": "",
+        "long_name": "OOI Global Station Papa 1000m Open Ocean Slocum Glider gp_362",
+        "id": "gp_362",
+        "type": "platform",
+        "wmo_id": "4801993"
+    },
+    "trajectory_datetime": "2014-08-30T02:40:00Z",
+    "trajectory_name": "gp_362-20140830T0240"
+}

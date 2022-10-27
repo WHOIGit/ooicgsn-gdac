@@ -1,0 +1,21 @@
+{
+    "glider": "cp_376",
+    "global_attributes": {
+        "comment": "",
+        "deployment_number": "00011",
+        "hydrographic_line": "Slope Sea 2 (SS-2)",
+        "platform_id": "CP05MOAS-GL376",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/CP05MOAS-GL376/D00011/",
+        "wmo_id": "4801970",
+        "mode": "rt"
+    },
+    "platform": {
+        "comment": "",
+        "long_name": "OOI Pioneer Slocum Glider cp_376",
+        "id": "CP05MOAS-GL376",
+        "type": "platform",
+        "wmo_id": "4801970"
+    },
+    "trajectory_datetime": "2020-03-02T09:46:04Z",
+    "trajectory_name": "cp_376-20200302T0946"
+}

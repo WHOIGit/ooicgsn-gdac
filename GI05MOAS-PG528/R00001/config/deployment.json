@@ -1,0 +1,23 @@
+{
+    "glider": "gi_528",
+    "global_attributes": {
+        "comment": "",
+        "deployment_number": "00001",
+        "hydrographic_line": "",
+        "platform_id": "gi_528",
+        "OOI_reference_designator": "GI05MOAS-PG528",
+        "OOI_platform_type": "OOI Global Irminger Sea 1000m Profiling Glider",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/GI05MOAS-PG528/R00001/",
+        "wmo_id": "6801732",
+        "mode": "delayed"
+    },
+    "platform": {
+        "comment": "",
+        "long_name": "OOI Global Irminger Sea 1000m Profiling Slocum Glider gi_528",
+        "id": "gi_528",
+        "type": "platform",
+        "wmo_id": "6801732"
+    },
+    "trajectory_datetime": "2015-08-17T14:28:00Z",
+    "trajectory_name": "gi_528-20150817T1428"
+}

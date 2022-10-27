@@ -1,0 +1,23 @@
+{
+    "glider": "gi_493",
+    "global_attributes": {
+        "comment": "Glider lost at sea. No recovered data available. Optode default salinity setting was 35ppt instead of 0ppt. A correction cannot be applied because there are no recovered data.",
+        "deployment_number": "00002",
+        "hydrographic_line": "",
+        "platform_id": "gi_493",
+        "OOI_reference_designator": "GI05MOAS-GL493",
+        "OOI_platform_type": "OOI Global Irminger Sea 1000m Open Ocean Glider",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/GI05MOAS-GL493/D00002/",
+        "wmo_id": "6801730",
+        "mode": "rt"
+    },
+    "platform": {
+        "comment": "",
+        "long_name": "OOI Global Irminger Sea 1000m Open Ocean Slocum Glider gi_493",
+        "id": "gi_493",
+        "type": "platform",
+        "wmo_id": "6801730"
+    },
+    "trajectory_datetime": "2017-08-09T12:22:00Z",
+    "trajectory_name": "gi_493-20170809T1222"
+}

@@ -1,0 +1,23 @@
+{
+    "glider": "cp_376",
+    "global_attributes": {
+        "comment": "Deployment summary: This glider was deployed to the Slope Sea 2 (SS-2) line 2020-03-02T09:46:04 UTC and recovered 2020-05-22T18:00:27 UTC. The DVL was disabled 2020-04-20 to conserve battery power. The glider was caught in eddies and blown off course multiple times through the deployment. This was a relatively normal deployment.",
+        "deployment_number": "00011",
+        "hydrographic_line": "Slope Sea 2 (SS-2)",
+        "platform_id": "cp_376",
+        "OOI_reference_designator": "CP05MOAS-GL376",
+        "OOI_platform_type": "OOI Costal Pioneer 1000m Glider",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/CP05MOAS-GL376/R00011/",
+        "wmo_id": "4801970",
+        "mode": "delayed"
+    },
+    "platform": {
+        "comment": "",
+        "long_name": "OOI Coastal Pioneer 1000m Slocum Glider cp_376",
+        "id": "cp_376",
+        "type": "platform",
+        "wmo_id": "4801970"
+    },
+    "trajectory_datetime": "2020-03-02T09:46:04Z",
+    "trajectory_name": "cp_376-20200302T0946"
+}

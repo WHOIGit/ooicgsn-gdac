@@ -1,0 +1,23 @@
+{
+    "glider": "gp_566",
+    "global_attributes": {
+        "comment": "",
+        "deployment_number": "00002",
+        "hydrographic_line": "",
+        "platform_id": "gp_566",
+        "OOI_reference_designator": "GP05MOAS-PG566",
+        "OOI_platform_type": "OOI Global Irminger Sea 1000m Profiling Glider",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/GP05MOAS-PG566/R00002/",
+        "wmo_id": "4802981",
+        "mode": "delayed"
+    },
+    "platform": {
+        "comment": "",
+        "long_name": "OOI Global Irminger Sea 1000m Profiling Slocum Glider gp_566",
+        "id": "gp_566",
+        "type": "platform",
+        "wmo_id": "4802981"
+    },
+    "trajectory_datetime": "2020-10-02T12:45:00Z",
+    "trajectory_name": "gp_566-20201002T1245"
+}

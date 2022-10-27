@@ -1,0 +1,23 @@
+{
+    "glider": "cp_339",
+    "global_attributes": {
+        "comment": "Deployment Summary: This glider spent a significant portion of the deployment off of the EB line due to being stuck in a Gulf Stream warm core ring. It was recovered 3/30/2021 to drop it back on the EB line. It was re-deployed 4/2/2021 for D00013.",
+        "deployment_number": "00012",
+        "hydrographic_line": "Eastern Boundary (EB)",
+        "platform_id": "cp_339",
+        "OOI_reference_designator": "CP05MOAS-GL339",
+        "OOI_platform_type": "OOI Costal Pioneer 200m Glider",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/CP05MOAS-GL339/R00012/",
+        "wmo_id": "4801957",
+        "mode": "delayed"
+    },
+    "platform": {
+        "comment": "",
+        "long_name": "OOI Coastal Pioneer 200m Slocum Glider cp_339",
+        "id": "cp_339",
+        "type": "platform",
+        "wmo_id": "4801957"
+    },
+    "trajectory_datetime": "2021-01-31T16:40:00Z",
+    "trajectory_name": "cp_339-20210131T1640"
+}

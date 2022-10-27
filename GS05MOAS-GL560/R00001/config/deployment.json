@@ -1,0 +1,23 @@
+{
+    "glider": "gs_560",
+    "global_attributes": {
+        "comment": "",
+        "deployment_number": "00001",
+        "hydrographic_line": "",
+        "platform_id": "gs_560",
+        "OOI_reference_designator": "GS05MOAS-GL560",
+        "OOI_platform_type": "OOI Global Southern Ocean 1000m Open Ocean Glider",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/GS05MOAS-GL560/R00001/",
+        "wmo_id": "3801520",
+        "mode": "delayed"
+    },
+    "platform": {
+        "comment": "",
+        "long_name": "OOI Global Southern Ocean 1000m Open Ocean Slocum Glider gs_560",
+        "id": "gs_560",
+        "type": "platform",
+        "wmo_id": "3801520"
+    },
+    "trajectory_datetime": "2015-12-20T19:20:00Z",
+    "trajectory_name": "gs_560-20151220T1920"
+}

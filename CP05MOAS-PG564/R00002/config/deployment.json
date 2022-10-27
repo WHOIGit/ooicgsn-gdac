@@ -1,0 +1,23 @@
+{
+    "glider": "cp_564",
+    "global_attributes": {
+        "comment": "",
+        "deployment_number": "00002",
+        "hydrographic_line": "Central Profiler Mooring (CNPM)",
+        "platform_id": "cp_564",
+        "OOI_reference_designator": "CP05MOAS-PG564",
+        "OOI_platform_type": "OOI Costal Pioneer 200m Profiling Glider",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/CP05MOAS-PG564/R00002/",
+        "wmo_id": "4801989",
+        "mode": "delayed"
+    },
+    "platform": {
+        "comment": "",
+        "long_name": "OOI Coastal Pioneer 200m Profiling Slocum Glider cp_564",
+        "id": "cp_564",
+        "type": "platform",
+        "wmo_id": "4801989"
+    },
+    "trajectory_datetime": "2017-08-17T10:20:00Z",
+    "trajectory_name": "cp_564-20170817T1020"
+}

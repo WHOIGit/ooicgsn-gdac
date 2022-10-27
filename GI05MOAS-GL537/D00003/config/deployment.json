@@ -1,0 +1,23 @@
+{
+    "glider": "gi_537",
+    "global_attributes": {
+        "comment": "This glider was deployed on 8/11/2021 and the science bay failed on 8/23/2021. No science data expected after this date. Glider leaked on 9/4/2021 and ceased communicating on 9/7/2021. No recovered data expected. This glider was deployed with a slightly modified optode to improve calibration by exposing it to air. The optode mount was moved to a spot slightly forward of the glider's fin and oriented so that the optode would be above the waterline when the glider was at the surface. The optode remained powered and logging during the air surface intervals.",
+        "deployment_number": "00003",
+        "hydrographic_line": "",
+        "platform_id": "gi_537",
+        "OOI_reference_designator": "GI05MOAS-GL537",
+        "OOI_platform_type": "OOI Global Irminger Sea 1000m Open Ocean Glider",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/GI05MOAS-GL537/D00003/",
+        "wmo_id": "6801741",
+        "mode": "rt"
+    },
+    "platform": {
+        "comment": "",
+        "long_name": "OOI Global Irminger Sea 1000m Open Ocean Slocum Glider gi_537",
+        "id": "gi_537",
+        "type": "platform",
+        "wmo_id": "6801741"
+    },
+    "trajectory_datetime": "2021-08-11T04:10:00Z",
+    "trajectory_name": "gi_537-20210811T0410"
+}

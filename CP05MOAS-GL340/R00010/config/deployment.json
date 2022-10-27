@@ -1,0 +1,23 @@
+{
+    "glider": "cp_340",
+    "global_attributes": {
+        "comment": "Deployment summary: This glider was deployed to the Eeastern Boundary (EB) line 2019-12-13 01:04:47 UTC and recovered 2020-03-03 12:00 UTC for a total of 81 days spent at sea. The glider experienced a digifin leak on 2020-02-22 and was put in surface drift mode until it was recovered.",
+        "deployment_number": "00010",
+        "hydrographic_line": "Eastern Boundary (EB)",
+        "platform_id": "cp_340",
+        "OOI_reference_designator": "CP05MOAS-GL340",
+        "OOI_platform_type": "OOI Costal Pioneer 200m Glider",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/CP05MOAS-GL340/D00010/",
+        "wmo_id": "4801968",
+        "mode": "delayed"
+    },
+    "platform": {
+        "comment": "",
+        "long_name": "OOI Costal Pioneer 200m Slocum Glider cp_340",
+        "id": "cp_340",
+        "type": "platform",
+        "wmo_id": "4801968"
+    },
+    "trajectory_datetime": "2019-12-13T01:04:47Z",
+    "trajectory_name": "cp_340-20191213T0104"
+}

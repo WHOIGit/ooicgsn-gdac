@@ -1,0 +1,23 @@
+{
+    "glider": "cp_388",
+    "global_attributes": {
+        "comment": "Deployment 13: Glider was recovered shortly after deployment to adjust ballast and was re-deployed as D00014.",
+        "deployment_number": "00013",
+        "hydrographic_line": "Frontal Zone 1 (FZ-1)",
+        "platform_id": "cp_388",
+        "OOI_reference_designator": "CP05MOAS-GL388",
+        "OOI_platform_type": "OOI Costal Pioneer 1000m Glider",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/CP05MOAS-GL388/R00013/",
+        "wmo_id": "4801956",
+        "mode": "delayed"
+    },
+    "platform": {
+        "comment":  "",
+        "long_name": "OOI Coastal Pioneer 1000m Slocum Glider cp_388",
+        "id": "cp_388",
+        "type": "platform",
+        "wmo_id": "4801956"
+    },
+    "trajectory_datetime": "2022-04-10T16:00:00Z",
+    "trajectory_name": "cp_388-20220410T1600"
+}

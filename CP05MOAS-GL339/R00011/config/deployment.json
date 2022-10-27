@@ -1,0 +1,23 @@
+{
+    "glider": "cp_339",
+    "global_attributes": {
+        "comment": "Deployment summary: This glider was deployed to the Eastern Boundary (EB) line 2020-06-13T20:09:37 UTC and recovered 2020-07-31T18:55:48 UTC. Around 2020-07-20 the water density at the array became lower than was anticipated for this time of year and the glider became too dense/heavy for its environment. The glider began experiencing difficulty obtaining and maintaining the surface and eventually dropped its emergency ejection weight on 2020-07-30. It was put in surface drift mode until recovery.",
+        "deployment_number": "00011",
+        "hydrographic_line": "Eastern Boundary (EB)",
+        "platform_id": "cp_339",
+        "OOI_reference_designator": "CP05MOAS-GL339",
+        "OOI_platform_type": "OOI Costal Pioneer 200m Glider",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/CP05MOAS-GL339/R00011/",
+        "wmo_id": "4801957",
+        "mode": "delayed"
+    },
+    "platform": {
+        "comment": "",
+        "long_name": "OOI Coastal Pioneer 200m Slocum Glider cp_339",
+        "id": "cp_339",
+        "type": "platform",
+        "wmo_id": "4801957"
+    },
+    "trajectory_datetime": "2020-06-13T20:09:37Z",
+    "trajectory_name": "cp_339-20200613T2009"
+}

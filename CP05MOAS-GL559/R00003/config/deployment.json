@@ -1,0 +1,23 @@
+{
+    "glider": "cp_559",
+    "global_attributes": {
+        "comment": "Deployment Notes: This glider was deployed with a slightly modified optode orientation to improve calibration by exposing it to air. The optode mount was moved to a spot slightly forward of the glider's fin and oriented so that the optode would be above the waterline when the glider was at the surface. The optode remains powered and logging during the air surface intervals. An offset between the flight pressure sensor and the CTD pressure sensor was observed early on in the deployment. The CTD pressure sensor is believed to be correct. Glider was configured to fly using the CTD pressure values beginning 2021-09-17 and the CTD was configured to also sample the climb to support this change. The FLORT was disabled 2021-11-07, and the PAR and DOSTA were both disabled 2021-11-10. Glider spent a significant portion of the deployment off of the SS-2 line due to being swept by WCR currents.",
+        "deployment_number": "00003",
+        "hydrographic_line": "Slope Sea 2 (SS-2)",
+        "platform_id": "cp_559",
+        "OOI_reference_designator": "CP05MOAS-GL559",
+        "OOI_platform_type": "OOI Costal Pioneer 1000m Glider",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/CP05MOAS-GL559/R00003/",
+        "wmo_id": "4802993",
+        "mode": "delayed"
+    },
+    "platform": {
+        "comment":  "",
+        "long_name": "OOI Coastal Pioneer 1000m Slocum Glider cp_559",
+        "id": "cp_559",
+        "type": "platform",
+        "wmo_id": "4802993"
+    },
+    "trajectory_datetime": "2021-09-03T22:53:00Z",
+    "trajectory_name": "cp_559-20210903T2253"
+}

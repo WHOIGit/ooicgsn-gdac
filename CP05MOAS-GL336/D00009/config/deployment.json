@@ -1,0 +1,23 @@
+{
+    "glider": "cp_336",
+    "global_attributes": {
+        "comment": "Deployment summary: This glider was deployed to the Slope Sea 1 (SS-1) line 2019-05-16T23:37:11 UTC and lost at sea 2019-07-28. The glider was staged for normal recovery operations on 2019-07-27 and mysteriously stopped calling in. There is no recovered data available for this deployment, only telemetered.",
+        "deployment_number": "00009",
+        "hydrographic_line": "Slope Sea 1 (SS-1)",
+        "platform_id": "cp_336",
+        "OOI_reference_designator": "CP05MOAS-GL336",
+        "OOI_platform_type": "OOI Costal Pioneer 1000m Glider",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/CP05MOAS-GL336/D00009/",
+        "wmo_id": "4801955",
+        "mode": "rt"
+    },
+    "platform": {
+        "comment":  "",
+        "long_name": "OOI Coastal Pioneer 1000m Slocum Glider cp_336",
+        "id": "cp_336",
+        "type": "platform",
+        "wmo_id": "4801955"
+    },
+    "trajectory_datetime": "2019-05-16T23:37:11Z",
+    "trajectory_name": "cp_336-20190516T2337"
+}

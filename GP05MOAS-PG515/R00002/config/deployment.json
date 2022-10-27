@@ -1,0 +1,23 @@
+{
+    "glider": "gp_515",
+    "global_attributes": {
+        "comment": "Deployed without optode.",
+        "deployment_number": "00002",
+        "hydrographic_line": "",
+        "platform_id": "gp_515",
+        "OOI_reference_designator": "GP05MOAS-PG515",
+        "OOI_platform_type": "OOI Global Irminger Sea 1000m Profiling Glider",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/GP05MOAS-PG515/R00002/",
+        "wmo_id": "",
+        "mode": "delayed"
+    },
+    "platform": {
+        "comment": "",
+        "long_name": "OOI Global Irminger Sea 1000m Profiling Slocum Glider gp_515",
+        "id": "gp_515",
+        "type": "platform",
+        "wmo_id": ""
+    },
+    "trajectory_datetime": "2015-06-02T09:55:00Z",
+    "trajectory_name": "gp_515-20150602T0955"
+}

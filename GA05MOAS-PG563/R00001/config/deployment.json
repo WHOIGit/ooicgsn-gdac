@@ -1,0 +1,23 @@
+{
+    "glider": "ga_563",
+    "global_attributes": {
+        "comment": "",
+        "deployment_number": "00001",
+        "hydrographic_line": "",
+        "platform_id": "ga_563",
+        "OOI_reference_designator": "GA05MOAS-PG563",
+        "OOI_platform_type": "OOI Global Argentine Basin 1000m Profiling Glider",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/GA05MOAS-PG563/R00001/",
+        "wmo_id": "3801513",
+        "mode": "delayed"
+    },
+    "platform": {
+        "comment": "",
+        "long_name": "OOI Global Argentine Basin 1000m Profiling Slocum Glider ga_563",
+        "id": "ga_563",
+        "type": "platform",
+        "wmo_id": "3801513"
+    },
+    "trajectory_datetime": "2015-11-24T21:47:00Z",
+    "trajectory_name": "ga_563-20151124T2147"
+}

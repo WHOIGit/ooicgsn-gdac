@@ -1,0 +1,23 @@
+{
+    "glider": "cp_380",
+    "global_attributes": {
+        "comment": "Deployment summary: This glider was deployed 2019-12-12 22:31:16 UTC and recovered 2020-03-02 07:50:00 UTC. It was initially deployed to the Slope Sea 1 (SS-1) line but re-assigned to the Frontal Zone 1 (FZ-1). The DVL was disabled 2020-02-04 and all other sensors were disabled 2020-02-21 to preserve power. This was a normal deployment.",
+        "deployment_number": "00008",
+        "hydrographic_line": "Frontal Zone 1 (FZ-1)",
+        "platform_id": "cp_380",
+        "OOI_reference_designator": "CP05MOAS-GL380",
+        "OOI_platform_type": "OOI Costal Pioneer 1000m Glider",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/CP05MOAS-GL380/D00008/",
+        "wmo_id": "4801977",
+        "mode": "delayed"
+    },
+    "platform": {
+        "comment": "",
+        "long_name": "OOI Coastal Pioneer 1000m Slocum Glider cp_380",
+        "id": "cp_380",
+        "type": "platform",
+        "wmo_id": "4801977"
+    },
+    "trajectory_datetime": "2019-12-12T22:31:16Z",
+    "trajectory_name": "cp_380-20191212T2231"
+}

@@ -1,0 +1,23 @@
+{
+    "glider": "cp_583",
+    "global_attributes": {
+        "comment": "Deployment Summary: This deployment was designed to help fill the void left by the OOI Inshore Profiler Mooring (ISPM) which is typically not deployed to the Pioneer Array in the Summer. This glider was deployed 4/3/2021 and ISPM was recovered 4/12/2021. The glider shuttled between two waypoints about 2nmi apart and sampled science on the descent of every 15th yo. Around 6/30/2021 the glider became too dense/heavy for its environment due to biofouling. The glider began  experiencing difficulty obtaining and maintaining the surface and eventually dropped its emergency ejection weight on 7/29/2021. It was put in surface drift mode until recovery.",
+        "deployment_number": "00004",
+        "hydrographic_line": "Inshore Profiler Mooring (ISPM)",
+        "platform_id": "cp_583",
+        "OOI_reference_designator": "CP05MOAS-PG583",
+        "OOI_platform_type": "OOI Costal Pioneer 200m Profiling Glider",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/CP05MOAS-PG583/R00004/",
+        "wmo_id": "4801990",
+        "mode": "delayed"
+    },
+    "platform": {
+        "comment": "",
+        "long_name": "OOI Coastal Pioneer 200m Profiling Slocum Glider cp_583",
+        "id": "cp_583",
+        "type": "platform",
+        "wmo_id": "4801990"
+    },
+    "trajectory_datetime": "2021-04-03T19:13:00Z",
+    "trajectory_name": "cp_583-20210403T1913"
+}

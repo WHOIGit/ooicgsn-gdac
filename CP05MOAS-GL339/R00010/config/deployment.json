@@ -1,0 +1,23 @@
+{
+    "glider": "cp_339",
+    "global_attributes": {
+        "comment": "Deployment summary: This glider was deployed to the Eeastern Boundary (EB) line 2020-03-02T11:09:59 UTC and recovered 2020-05-22 18:44:27 UTC. The DVL was disabled on 2020-04-17 to conserve battery power. The altimeter began to fail in late April so the glider was restricted to deeper water and the southern portion of the EB line on 2020-05-03. The glider was caught in eddies and blown off course multiple times throughout the deployment. This was a relatively normal deployment.",
+        "deployment_number": "00010",
+        "hydrographic_line": "Eastern Boundary (EB)",
+        "platform_id": "cp_339",
+        "OOI_reference_designator": "CP05MOAS-GL339",
+        "OOI_platform_type": "OOI Costal Pioneer 200m Glider",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/CP05MOAS-GL339/R00010/",
+        "wmo_id": "4801957",
+        "mode": "delayed"
+    },
+    "platform": {
+        "comment": "",
+        "long_name": "OOI Coastal Pioneer 200m Slocum Glider cp_339",
+        "id": "cp_339",
+        "type": "platform",
+        "wmo_id": "4801957"
+    },
+    "trajectory_datetime": "2020-03-02T11:09:59Z",
+    "trajectory_name": "cp_339-20200302T1109"
+}

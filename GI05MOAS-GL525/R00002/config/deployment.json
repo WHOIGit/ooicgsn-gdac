@@ -1,0 +1,23 @@
+{
+    "glider": "gi_525",
+    "global_attributes": {
+        "comment": "Deployment summary: This glider was deployed to the Irminger Sea Array 2019-08-06T17:23:00 UTC and recovered 2020-05-07T21:27:00. This deployment was completed in conjunction with the WHOI BOOMLAB and PI Dr. David Nicholson http://boomlab.whoi.edu/wordpress/). This glider was deployed with a slightly modified optode to improve calibration by exposing it to air. The optode mount was moved to a spot slightly forward of the glider's fin and oriented so that the optode would be above the waterline when the glider was at the surface. The optode remained powered and logging during the air surface intervals, and glider sensor logging was changed from descent-only to ascent-only to avoid sensor lag artifacts when moving from air to water. Optode sampling frequency was increased from 60 seconds to 30 seconds, to improve vertical resolution. Sampling was periodically disabled in order to conserve battery for the deployment. The glider experienced a vacuum leak on 2020-04-08 and could no longer dive so it was put in surface drift mode until recovery.",
+        "deployment_number": "00002",
+        "hydrographic_line": "",
+        "platform_id": "gi_525",
+        "OOI_reference_designator": "GI05MOAS-GL525",
+        "OOI_platform_type": "OOI Global Irminger Sea 1000m Open Ocean Glider",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/GI05MOAS-GL525/R00002/",
+        "wmo_id": "6801739",
+        "mode": "delayed"
+    },
+    "platform": {
+        "comment": "",
+        "long_name": "OOI Global Irminger Sea 1000m Open Ocean Slocum Glider gi_525",
+        "id": "gi_525",
+        "type": "platform",
+        "wmo_id": "6801739"
+    },
+    "trajectory_datetime": "2019-08-06T17:23:00Z",
+    "trajectory_name": "gi_525-20190806T1723"
+}

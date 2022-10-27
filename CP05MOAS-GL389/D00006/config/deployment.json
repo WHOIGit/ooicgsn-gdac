@@ -1,0 +1,23 @@
+{
+    "glider": "cp_389",
+    "global_attributes": {
+        "comment": "This glider was lost at sea. No recovered data expected.",
+        "deployment_number": "00006",
+        "hydrographic_line": "Slope Sea 2 (SS-2)",
+        "platform_id": "cp_389",
+        "OOI_reference_designator": "CP05MOAS-GL389",
+        "OOI_platform_type": "OOI Costal Pioneer 1000m Glider",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/CP05MOAS-GL389/D00006/",
+        "wmo_id": "4801973",
+        "mode": "rt"
+    },
+    "platform": {
+        "comment":  "",
+        "long_name": "OOI Coastal Pioneer 1000m Slocum Glider cp_389",
+        "id": "cp_389",
+        "type": "platform",
+        "wmo_id": "4801973"
+    },
+    "trajectory_datetime": "2019-02-05T08:17:00Z",
+    "trajectory_name": "cp_389-20190205T0817"
+}

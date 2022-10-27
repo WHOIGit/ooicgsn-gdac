@@ -1,0 +1,21 @@
+{
+    "glider": "cp_339",
+    "global_attributes": {
+        "comment": "",
+        "deployment_number": "00010",
+        "hydrographic_line": "Eastern Boundary (EB)",
+        "platform_id": "CP05MOAS-GL339",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/CP05MOAS-GL339/D00010/",
+        "wmo_id": "4801957",
+        "mode": "rt"
+    },
+    "platform": {
+        "comment": "",
+        "long_name": "OOI Pioneer Slocum Glider cp_339",
+        "id": "CP05MOAS-GL339",
+        "type": "platform",
+        "wmo_id": "4801957"
+    },
+    "trajectory_datetime": "2020-03-02T11:09:59Z",
+    "trajectory_name": "cp_339-20200302T1109"
+}

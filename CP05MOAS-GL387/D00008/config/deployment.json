@@ -1,0 +1,23 @@
+{
+    "glider": "cp_387",
+    "global_attributes": {
+        "comment": "",
+        "deployment_number": "00008",
+        "hydrographic_line": "Slope Sea 1 (SS-1)",
+        "platform_id": "cp_387",
+        "OOI_reference_designator": "CP05MOAS-GL387",
+        "OOI_platform_type": "OOI Costal Pioneer 1000m Glider",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/CP05MOAS-GL387/D00008/",
+        "wmo_id": "4801972",
+        "mode": "rt"
+    },
+    "platform": {
+        "comment": "",
+        "long_name": "OOI Coastal Pioneer 1000m Slocum Glider cp_387",
+        "id": "cp_387",
+        "type": "platform",
+        "wmo_id": "4801972"
+    },
+    "trajectory_datetime": "2020-11-21T17:40:00Z",
+    "trajectory_name": "cp_387-20201121T1740"
+}

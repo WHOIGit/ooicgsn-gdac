@@ -1,0 +1,21 @@
+{
+    "glider": "cp_379",
+    "global_attributes": {
+        "comment": "",
+        "deployment_number": "00009",
+        "hydrographic_line": "Slope Sea 1 (SS-1)",
+        "platform_id": "CP05MOAS-GL379",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/CP05MOAS-GL379/D00009/",
+        "wmo_id": "4801971",
+        "mode": "rt"
+    },
+    "platform": {
+        "comment":  "",
+        "long_name": "OOI Pioneer Slocum Glider cp_379",
+        "id": "CP05MOAS-GL379",
+        "type": "platform",
+        "wmo_id": "4801971"
+    },
+    "trajectory_datetime": "2020-03-02T09:44:16Z",
+    "trajectory_name": "cp_379-20200302T0944"
+}

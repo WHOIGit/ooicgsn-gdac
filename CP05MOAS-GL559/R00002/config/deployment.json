@@ -1,0 +1,23 @@
+{
+    "glider": "cp_559",
+    "global_attributes": {
+        "comment": "Deployment Summary: This glider was initially deployed to the SS-1 line but was rerouted to the FZ-1 line on 6/14/2021. DVL was disabled 7/14/2021 and remaining science sensors were disabled 7/28/2021 to conserve battery. Glider recovered 8/9/2021. This glider was deployed with a slightly modified optode to improve calibration by exposing it to air. The optode mount was moved to a spot slightly forward of the glider's fin and oriented so that the optode would be above the waterline when the glider was at the surface. The optode remains powered and logging during the air surface intervals.",
+        "deployment_number": "00002",
+        "hydrographic_line": "Slope Sea 1 (SS-1) & Frontal Zone 1 (FZ-1)",
+        "platform_id": "cp_559",
+        "OOI_reference_designator": "CP05MOAS-GL559",
+        "OOI_platform_type": "OOI Costal Pioneer 1000m Glider",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/CP05MOAS-GL559/R00002/",
+        "wmo_id": "4802993",
+        "mode": "delayed"
+    },
+    "platform": {
+        "comment":  "",
+        "long_name": "OOI Coastal Pioneer 1000m Slocum Glider cp_559",
+        "id": "cp_559",
+        "type": "platform",
+        "wmo_id": "4802993"
+    },
+    "trajectory_datetime": "2021-05-17T20:34:00Z",
+    "trajectory_name": "cp_559-20210517T2034"
+}

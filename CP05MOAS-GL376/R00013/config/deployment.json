@@ -1,0 +1,23 @@
+{
+    "glider": "cp_376",
+    "global_attributes": {
+        "comment": "Deployment Summary: This glider's science computer began having issues around 2/26/21 and could no longer log science; no science data expected for any instrument after this date.",
+        "deployment_number": "00013",
+        "hydrographic_line": "Slope Sea 1 (SS-1)",
+        "platform_id": "cp_376",
+        "OOI_reference_designator": "CP05MOAS-GL376",
+        "OOI_platform_type": "OOI Costal Pioneer 1000m Glider",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/CP05MOAS-GL376/R00013/",
+        "wmo_id": "4801970",
+        "mode": "delayed"
+    },
+    "platform": {
+        "comment": "",
+        "long_name": "OOI Coastal Pioneer 1000m Slocum Glider cp_376",
+        "id": "cp_376",
+        "type": "platform",
+        "wmo_id": "4801970"
+    },
+    "trajectory_datetime": "2021-01-31T18:00:00Z",
+    "trajectory_name": "cp_376-20210131T1800"
+}

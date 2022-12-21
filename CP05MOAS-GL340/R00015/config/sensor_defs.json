@@ -349,7 +349,7 @@
                 "ConcCoef": [-2.878193E+00, 1.124855E+00]
             }
         }
-        },
+    },
     "sci_oxy4_saturation": {
         "attrs": {
             "_FillValue": NaN,

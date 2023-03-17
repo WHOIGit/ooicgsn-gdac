@@ -1,0 +1,18 @@
+{
+    "glider": "A6263",
+    "global_attributes": {
+        "comment": "",
+        "deployment_number": "00006",
+        "wmo_id": "???????",
+        "mode": "delayed"
+    },
+    "platform": {
+        "comment": "",
+	    "long_name": "OOI Coastal Pioneer 600m Remus AUV A6263",
+        "id": "A6263",
+        "type": "platform",
+        "wmo_id": "???????"
+    },
+    "trajectory_datetime": "2018-04-24T13:05:00Z",
+    "trajectory_name": "CP05MOASA6263-20180424T1305"
+}

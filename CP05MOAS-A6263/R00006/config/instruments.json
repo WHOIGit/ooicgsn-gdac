@@ -1,0 +1,145 @@
+[
+    {
+        "nc_var_name": "instrument_ctd",
+        "type": "i4",
+        "attrs": {
+            "serial_number": "424",
+            "make_model": "NBOSI-CT",
+	    "OOI_series": "CTDAV-N",
+            "comment": "pumped CTD",
+            "long_name": "Neil Brown Ocean Sensors Inc. CTD",
+            "calibration_date": "2017-10-06T00:00:00Z",
+            "factory_calibrated": "2017-10-06T00:00:00Z",
+            "calibration_report": "",
+            "calibration_directory_url": "",
+	    "subset_msg_id": "1107",
+            "type": "platform",
+            "platform": "platform"
+        }
+    },
+    {
+        "nc_var_name": "instrument_flbbcd",
+        "type": "i4",
+        "attrs": {
+            "serial_number": "1645",
+            "make_model": "WET Labs ECO Config Multi",
+            "OOI_series": "FLORT-N",
+            "long_name": "Optical Backscatter, Chlorophyll and CDOM Fluorescence Sensor",
+            "calibration_date": "2017-11-20T00:00:00Z",
+            "factory_calibrated": "2017-11-20T00:00:00Z",
+            "calibration_report": "",
+            "calibration_directory_url": "",
+	    "subset_msg_id": "1118",
+            "type": "instrument",
+            "platform": "platform"
+        }
+    },
+    {
+        "nc_var_name": "instrument_par",
+        "type": "i4",
+        "attrs": {
+            "serial_number": "50267",
+            "make_model": "Biospherical QSP-2150",
+            "OOI_series": "PARAD-N",
+            "long_name": "Photosynthetically Active Radiation (PAR) Sensor",
+            "calibration_date": "2017-11-16T00:00:00Z",
+            "factory_calibrated": "2017-11-16T00:00:00Z",
+            "calibration_report": "",
+            "calibration_directory_url": "",
+	    "subset_msg_id": "1173",
+            "type": "instrument",
+            "platform": "platform"
+        }
+    },
+    {
+        "nc_var_name": "instrument_oxygen",
+        "type": "i4",
+        "attrs": {
+            "serial_number": "2901",
+            "make_model": "Aanderaa Optode 4831",
+            "OOI_series": "DOSTA-N",
+            "long_name": "Dissolved Oxygen Sensor",
+            "calibration_date": "2017-11-13T00:00:00Z",
+            "comment": "none",
+            "offset_from_depth_sensor": "0.917m",
+            "factory_calibrated": "2017-11-13T00:00:00Z",
+            "calibration_report": "",
+            "calibration_directory_url": "",
+	    "subset_msg_id": "1109",
+            "type": "instrument",
+            "platform": "platform"
+        }
+    },
+    {
+        "nc_var_name": "instrument_suna",
+        "type": "i4",
+        "attrs": {
+            "serial_number": "366",
+            "make_model": "SUNA-V2",
+            "OOI_series": "NUTNR-N",
+            "long_name": "Satlantic optical nitrate sensor",
+            "calibration_date": "2019-02-15T00:00:00Z",
+            "comment": "none",
+            "factory_calibrated": "2019-02-15T00:00:00Z",
+            "calibration_report": "",
+            "calibration_directory_url": "",
+	    "subset_msg_id": "1174",
+            "type": "instrument",
+            "platform": "platform"
+        }
+    },
+    {
+        "nc_var_name": "instrument_sonar",
+        "type": "i4",
+        "attrs": {
+            "serial_number": "???",
+            "make_model": "ECHO-852",
+            "OOI_series": "ECHO-852",
+            "long_name": "Imagenex Echo-852 sensor",
+            "calibration_date": "2021-03-31T07:00:00Z",
+            "comment": "none",
+            "factory_calibrated": "2021-03-31T07:00:00Z",
+            "calibration_report": "Echo-852_Imag-????_SN_???_Calibration_2021-03-31.pdf",
+            "calibration_directory_url": "",
+	    "subset_msg_id": "1102",
+            "type": "instrument",
+            "platform": "platform"
+        }
+    },
+    {
+        "nc_var_name": "instrument_adcp",
+        "type": "i4",
+        "attrs": {
+            "serial_number": "???",
+            "make_model": "???",
+            "OOI_series": "ADCPA-N",
+            "long_name": "Acoustic Doppler Current Profiler",
+            "calibration_date": "???",
+            "comment": "none",
+            "factory_calibrated": "???",
+            "calibration_report": "????",
+            "calibration_directory_url": "",
+	    "subset_msg_id": "1141",
+            "type": "instrument",
+            "platform": "platform"
+        }
+    },
+    {
+        "nc_var_name": "instrument_gps",
+        "type": "i4",
+        "attrs": {
+            "serial_number": "???",
+            "make_model": "NMEA-183",
+            "OOI_series": "???",
+            "long_name": "???",
+            "calibration_date": "???",
+            "comment": "none",
+            "factory_calibrated": "???",
+            "calibration_report": "???",
+            "calibration_directory_url": "",
+	    "subset_msg_id": "1055",
+            "type": "instrument",
+            "platform": "platform"
+        }
+    }
+]

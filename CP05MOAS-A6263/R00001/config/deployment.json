@@ -2,7 +2,7 @@
     "glider": "A6263",
     "global_attributes": {
         "comment": "",
-        "deployment_number": "00002",
+        "deployment_number": "00001",
         "wmo_id": "???????",
         "mode": "delayed"
     },
@@ -13,6 +13,6 @@
         "type": "platform",
         "wmo_id": "???????"
     },
-    "trajectory_datetime": "2016-05-29T12:35:26Z",
-    "trajectory_name": "CP05MOASA6263-20160529T1235"
+    "trajectory_datetime": "2015-10-31T00:00:00Z",
+    "trajectory_name": "CP05MOASA6263-20151031T0000"
 }

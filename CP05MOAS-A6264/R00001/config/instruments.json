@@ -3,7 +3,7 @@
         "nc_var_name": "instrument_ctd",
         "type": "i4",
         "attrs": {
-            "serial_number": "103",
+            "serial_number": "104",
             "make_model": "NBOSI-CT",
 	    "OOI_series": "CTDAV-N",
             "comment": "pumped CTD",
@@ -21,7 +21,7 @@
         "nc_var_name": "instrument_flbbcd",
         "type": "i4",
         "attrs": {
-            "serial_number": "1109",
+            "serial_number": "1108",
             "make_model": "WET Labs ECO Config Multi",
             "OOI_series": "FLORT-N",
             "long_name": "Optical Backscatter, Chlorophyll and CDOM Fluorescence Sensor",
@@ -38,7 +38,7 @@
         "nc_var_name": "instrument_par",
         "type": "i4",
         "attrs": {
-            "serial_number": "50180",
+            "serial_number": "50170",
             "make_model": "Biospherical QSP-2150",
             "OOI_series": "PARAD-N",
             "long_name": "Photosynthetically Active Radiation (PAR) Sensor",
@@ -55,7 +55,7 @@
         "nc_var_name": "instrument_oxygen",
         "type": "i4",
         "attrs": {
-            "serial_number": "1519",
+            "serial_number": "1520",
             "make_model": "Aanderaa Optode 4831",
             "OOI_series": "DOSTA-N",
             "long_name": "Dissolved Oxygen Sensor",
@@ -74,7 +74,7 @@
         "nc_var_name": "instrument_suna",
         "type": "i4",
         "attrs": {
-            "serial_number": "366",
+            "serial_number": "367",
             "make_model": "SUNA-V2",
             "OOI_series": "NUTNR-N",
             "long_name": "Satlantic optical nitrate sensor",

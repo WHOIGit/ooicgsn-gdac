@@ -2,7 +2,7 @@
     "glider": "A6264",
     "global_attributes": {
         "comment": "",
-        "deployment_number": "00015",
+        "deployment_number": "00016",
         "wmo_id": "???????",
         "mode": "delayed"
     },
@@ -13,6 +13,6 @@
         "type": "platform",
         "wmo_id": "???????"
     },
-    "trajectory_datetime": "2021-04-13T19:21:00Z",
-    "trajectory_name": "CP05MOASA6264-20210413T1921"
+    "trajectory_datetime": "2021-11-04T18:34:00Z",
+    "trajectory_name": "CP05MOASA6264-20211104T1834"
 }

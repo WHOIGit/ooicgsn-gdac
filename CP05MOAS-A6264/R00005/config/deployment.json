@@ -1,18 +1,23 @@
 {
     "glider": "A6264",
     "global_attributes": {
-        "comment": "",
+        "comment": "no data",
         "deployment_number": "00005",
-        "wmo_id": "???????",
+        "hydrographic_line": "across-shelf",
+        "platform_id": "A6264",
+        "OOI_reference_designator": "CP05MOAS-A6264",
+        "OOI_platform_type": "OOI Coastal Pioneer NES REMUS 600m",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/CP05MOAS-A6264/R00005/",
+        "wmo_id": "",
         "mode": "delayed"
     },
     "platform": {
-        "comment": "",
-	    "long_name": "OOI Coastal Pioneer 600m Remus AUV A6264",
+        "comment": "no data",
+        "long_name": "OOI Coastal Pioneer NES REMUS 600m AUV A6264",
         "id": "A6264",
         "type": "platform",
-        "wmo_id": "???????"
+        "wmo_id": ""
     },
     "trajectory_datetime": "2018-03-31T12:16:00Z",
-    "trajectory_name": "CP05MOASA6264-20180331T1216"
+    "trajectory_name": "A6264-20180331T1216"
 }

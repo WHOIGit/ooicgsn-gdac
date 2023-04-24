@@ -5,14 +5,13 @@
         "attrs": {
             "serial_number": "424",
             "make_model": "NBOSI-CT",
-	    "OOI_series": "CTDAV-N",
-            "comment": "pumped CTD",
+	          "OOI_series": "CTDAV-N",
             "long_name": "Neil Brown Ocean Sensors Inc. CTD",
             "calibration_date": "2017-10-06T00:00:00Z",
             "factory_calibrated": "2017-10-06T00:00:00Z",
-            "calibration_report": "",
+            "calibration_report": "CTDAV-N_NBOSI-CT_SN_424_Calibration_2017-10-06.pdf",
             "calibration_directory_url": "",
-	    "subset_msg_id": "1107",
+	          "subset_msg_id": "1107",
             "type": "platform",
             "platform": "platform"
         }
@@ -27,9 +26,9 @@
             "long_name": "Optical Backscatter, Chlorophyll and CDOM Fluorescence Sensor",
             "calibration_date": "2018-02-21T00:00:00Z",
             "factory_calibrated": "2018-02-21T00:00:00Z",
-            "calibration_report": "",
+            "calibration_report": "FLORT-N_BBFL2HYD-1108_Characterization_2018-02-21.pdf",
             "calibration_directory_url": "",
-	    "subset_msg_id": "1118",
+	          "subset_msg_id": "1118",
             "type": "instrument",
             "platform": "platform"
         }
@@ -44,9 +43,9 @@
             "long_name": "Photosynthetically Active Radiation (PAR) Sensor",
             "calibration_date": "2018-02-06T00:00:00Z",
             "factory_calibrated": "2018-02-06T00:00:00Z",
-            "calibration_report": "",
+            "calibration_report": "PARAD-N_QSP2150A_SN_50170_Calibration_Certificate_2018-02-06.pdf",
             "calibration_directory_url": "",
-	    "subset_msg_id": "1173",
+	          "subset_msg_id": "1173",
             "type": "instrument",
             "platform": "platform"
         }
@@ -56,16 +55,14 @@
         "type": "i4",
         "attrs": {
             "serial_number": "1520",
-            "make_model": "Aanderaa Optode 4831",
+            "make_model": "Aanderaa Optode 4330",
             "OOI_series": "DOSTA-N",
             "long_name": "Dissolved Oxygen Sensor",
             "calibration_date": "2018-01-29T00:00:00Z",
-            "comment": "none",
-            "offset_from_depth_sensor": "0.917m",
             "factory_calibrated": "2018-01-29T00:00:00Z",
-            "calibration_report": "",
+            "calibration_report": "DOSTA-N_Optode-4330_SN_1520_Calibration_2018-01-29.pdf",
             "calibration_directory_url": "",
-	    "subset_msg_id": "1109",
+	          "subset_msg_id": "1109",
             "type": "instrument",
             "platform": "platform"
         }
@@ -79,11 +76,10 @@
             "OOI_series": "NUTNR-N",
             "long_name": "Satlantic optical nitrate sensor",
             "calibration_date": "2019-03-27T00:00:00Z",
-            "comment": "none",
             "factory_calibrated": "2019-03-27T00:00:00Z",
-            "calibration_report": "",
+            "calibration_report": "3305-00327-00060-A_SN_366_Pre-Deployment_NUTNR-N.zip",
             "calibration_directory_url": "",
-	    "subset_msg_id": "1174",
+	          "subset_msg_id": "1174",
             "type": "instrument",
             "platform": "platform"
         }
@@ -92,16 +88,10 @@
         "nc_var_name": "instrument_sonar",
         "type": "i4",
         "attrs": {
-            "serial_number": "???",
             "make_model": "ECHO-852",
             "OOI_series": "ECHO-852",
             "long_name": "Imagenex Echo-852 sensor",
-            "calibration_date": "2021-03-31T07:00:00Z",
-            "comment": "none",
-            "factory_calibrated": "2021-03-31T07:00:00Z",
-            "calibration_report": "Echo-852_Imag-????_SN_???_Calibration_2021-03-31.pdf",
-            "calibration_directory_url": "",
-	    "subset_msg_id": "1102",
+	          "subset_msg_id": "1102",
             "type": "instrument",
             "platform": "platform"
         }
@@ -110,16 +100,11 @@
         "nc_var_name": "instrument_adcp",
         "type": "i4",
         "attrs": {
-            "serial_number": "???",
-            "make_model": "???",
+            "serial_number": "22076",
+            "make_model": "RDI WorkHorse Navigator",
             "OOI_series": "ADCPA-N",
             "long_name": "Acoustic Doppler Current Profiler",
-            "calibration_date": "???",
-            "comment": "none",
-            "factory_calibrated": "???",
-            "calibration_report": "????",
-            "calibration_directory_url": "",
-	    "subset_msg_id": "1141",
+	          "subset_msg_id": "1141",
             "type": "instrument",
             "platform": "platform"
         }
@@ -128,16 +113,8 @@
         "nc_var_name": "instrument_gps",
         "type": "i4",
         "attrs": {
-            "serial_number": "???",
             "make_model": "NMEA-183",
-            "OOI_series": "???",
-            "long_name": "???",
-            "calibration_date": "???",
-            "comment": "none",
-            "factory_calibrated": "???",
-            "calibration_report": "???",
-            "calibration_directory_url": "",
-	    "subset_msg_id": "1055",
+	          "subset_msg_id": "1055",
             "type": "instrument",
             "platform": "platform"
         }

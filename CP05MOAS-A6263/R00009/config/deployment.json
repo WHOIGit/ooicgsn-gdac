@@ -3,16 +3,21 @@
     "global_attributes": {
         "comment": "",
         "deployment_number": "00009",
-        "wmo_id": "???????",
+        "hydrographic_line": "along-shelf",
+        "platform_id": "A6263",
+        "OOI_reference_designator": "CP05MOAS-A6263",
+        "OOI_platform_type": "OOI Coastal Pioneer NES REMUS 600m",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/CP05MOAS-A6263/R00009/",
+        "wmo_id": "",
         "mode": "delayed"
     },
     "platform": {
         "comment": "",
-	    "long_name": "OOI Coastal Pioneer 600m Remus AUV A6263",
+	      "long_name": "OOI Coastal Pioneer NES REMUS 600m AUV A6263",
         "id": "A6263",
         "type": "platform",
-        "wmo_id": "???????"
+        "wmo_id": ""
     },
     "trajectory_datetime": "2019-06-18T19:18:00Z",
-    "trajectory_name": "CP05MOASA6263-20190618T1918"
+    "trajectory_name": "A6263-20190618T1918"
 }

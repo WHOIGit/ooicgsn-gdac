@@ -1,24 +1,3 @@
-// sensor_defs.json is the main translation information from the
-//      Remus AUV data variables/sensors to the Profile NetCDF
-//      variables. 
-//
-//  Each entry into the dictionary should have a keyword that is the 
-//  auv data variable to use in the NetCDF variable name 
-//  "nc_var_name" attribute. The main keyword is not necessarily the raw
-//  Remus data variable name, but may be a secondarily processed
-//  variable. The subdictionary for each should have an "attrs"
-//  attribute that become the variable level NetCDF attributes. See the 
-//  DAC instructions for the required attributes, additional may be added.
-//  "dimension" is required and should be `time`, and "type" is required
-//  and is the typical NetCDF data types. The attribute "is_dimension"
-//  is only required on the time dimension variable (here `llat_time`).
-//  The attribute "_FillValue" will dictate what the fill value is for
-//  the variable, if excluded, the default fill value from the NetCDF
-//  libraries will be used.
-//
-// ProfileDataFormatter JSON configurations allow comments in the file
-// (no inline comments). Any leading whitespace is ignored.
-// pay attention to completing JSON syntax though.
 {
     "platform": {
         "nc_var_name": "platform",
@@ -317,8 +296,8 @@
             "units": "umol m-2 s-1",
             "valid_max": 6000.0,
             "valid_min": 0.0,
-	    "calibration_dark_offset": 0.0,
-	    "calibration_scale_factor": 1.0
+	    "calibration_dark_offset": 10.6,
+	    "calibration_scale_factor": 6.02831
         }
     },
     "o2_oxygen": {

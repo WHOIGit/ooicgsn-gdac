@@ -1,5 +1,5 @@
 {
-    "glider": "A6263",
+    "glider": "cp_6263",
     "global_attributes": {
         "comment": "",
         "deployment_number": "00010",
@@ -19,5 +19,5 @@
         "wmo_id": ""
     },
     "trajectory_datetime": "2019-07-10T12:41:00Z",
-    "trajectory_name": "A6263-20190710T1241"
+    "trajectory_name": "cp_6263-20190710T1241"
 }

@@ -1,5 +1,5 @@
 {
-    "glider": "A6263",
+    "glider": "cp_6263",
     "global_attributes": {
         "comment": "docking trials, no data",
         "deployment_number": "00001",
@@ -19,5 +19,5 @@
         "wmo_id": ""
     },
     "trajectory_datetime": "2015-10-31T00:00:00Z",
-    "trajectory_name": "A6263-20151031T0000"
+    "trajectory_name": "cp_6263-20151031T0000"
 }

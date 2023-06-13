@@ -239,9 +239,9 @@
             "accuracy": " ",
             "ancillary_variables": "chlorophyll_a_qc",
             "instrument": "instrument_flbbcd",
-	    "subset_field": "parameter5",
+	    "subset_field": "parameter4",
             "long_name": "Chlorophyll A concentration",
-            "observation_type": "measured",
+            "observation_type": "calculated",
             "OOI_data_product_name": "",
             "OOI_data_level": "L1a",
             "platform": "platform",
@@ -249,8 +249,10 @@
             "resolution": " ",
             "standard_name": "mass_concentration_of_chlorophyll_a_in_sea_water",
             "units": "ug L-1",
-            "valid_max": 50.0,
-            "valid_min": 0.01
+            "valid_max": 350.0,
+            "valid_min": 0.01,
+            "calibration_dark_offset": 48.0,
+            "calibration_scale_factor": 0.0120
 	}
     },
     "flort_cdom":{
@@ -262,9 +264,9 @@
             "accuracy": " ",
             "ancillary_variables": "",
             "instrument": "instrument_flbbcd",
-	    "subset_field": "parameter8",
+	    "subset_field": "parameter7",
             "long_name": "Chromophoric dissolved organic matter",
-            "observation_type": "measured",
+            "observation_type": "calculated",
             "OOI_data_product_name": "",
             "OOI_data_level": "L1a",
             "platform": "platform",
@@ -272,7 +274,9 @@
             "resolution": " ",
             "standard_name": "concentration_of_colored_dissolved_organic_matter_in_sea_water_expressed_as_equivalent_mass_fraction_of_quinine_sulfate_dihydrate",            "units": "ppb",
             "valid_max": 375.0,
-            "valid_min": 0.0
+            "valid_min": 0.0,
+            "calibration_dark_offset": 49.0,
+            "calibration_scale_factor": 0.0908
 	}
     },
     "par_calc_irradiance": {

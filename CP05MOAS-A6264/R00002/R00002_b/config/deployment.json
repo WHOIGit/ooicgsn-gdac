@@ -1,0 +1,23 @@
+{
+    "glider": "cp_6264",
+    "global_attributes": {
+        "comment": "The vehicle received an unintended mission break during this mission and was on the surface between approximately 2016-05-30T22:08:00 and 2016-05-31T02:05:00; no data was collected during this period.",
+        "deployment_number": "00002",
+        "hydrographic_line": "along-shelf",
+        "platform_id": "A6264",
+        "OOI_reference_designator": "CP05MOAS-A6264",
+        "OOI_platform_type": "OOI Coastal Pioneer NES REMUS 600m",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/CP05MOAS-A6264/R00002/",
+        "wmo_id": "",
+        "mode": "delayed"
+    },
+    "platform": {
+        "comment": "",
+	      "long_name": "OOI Coastal Pioneer NES REMUS 600m AUV A6264",
+        "id": "A6264",
+        "type": "platform",
+        "wmo_id": ""
+    },
+    "trajectory_datetime": "2016-05-31T02:03:04Z",
+    "trajectory_name": "cp_6264-20160531T0203"
+}

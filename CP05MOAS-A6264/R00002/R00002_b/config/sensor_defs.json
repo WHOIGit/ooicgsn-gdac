@@ -140,7 +140,7 @@
         "attrs": {
             "axis": "Z",
             "long_name": "Pressure",
-            "observation_type": "measured",
+            "observation_type": "calculated",
             "OOI_data_product_name": "PRESWAT",
             "OOI_data_level": "L1a",
             "positive": "down",
@@ -275,8 +275,8 @@
             "standard_name": "concentration_of_colored_dissolved_organic_matter_in_sea_water_expressed_as_equivalent_mass_fraction_of_quinine_sulfate_dihydrate",            "units": "ppb",
             "valid_max": 375.0,
             "valid_min": 0.0,
-            "calibration_dark_offset": 49.0,
-            "calibration_scale_factor": 0.0908
+            "calibration_dark_offset": 44.0,
+            "calibration_scale_factor": 0.0899
 	}
     },
     "par_calc_irradiance": {
@@ -300,8 +300,8 @@
             "units": "umol m-2 s-1",
             "valid_max": 6000.0,
             "valid_min": 0.0,
-	    "calibration_dark_offset": 10.6,
-	    "calibration_scale_factor": 6.02831
+	    "calibration_dark_offset": 9.4,
+	    "calibration_scale_factor": 5.561
         }
     },
     "o2_oxygen": {

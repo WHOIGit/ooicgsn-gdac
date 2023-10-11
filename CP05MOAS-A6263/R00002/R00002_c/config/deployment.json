@@ -1,0 +1,23 @@
+{
+    "glider": "cp_6263",
+    "global_attributes": {
+        "comment": "This deployment consists of two smaller deployments: the first was 2016-05-29T12:35:26 through 2016-05-29T22:51:00 and the second 2016-05-30T22:23:00 through 2016-05-31T14:30:00. These files are associated with the second smaller deployment only. The second deployment received an unintended mission break shortly after deployment and the vehicle was on the surface between approximately 2016-05-30T22:59:00 and 2016-05-30T23:36:00; no science sensor data was collected during this period. Only data collected after the mission resumed at 2016-05-30T23:36:00 are ingested.",
+        "deployment_number": "00002",
+        "hydrographic_line": "across-shelf",
+        "platform_id": "A6263",
+        "OOI_reference_designator": "CP05MOAS-A6263",
+        "OOI_platform_type": "OOI Coastal Pioneer NES REMUS 600m",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/CP05MOAS-A6263/R00002/",
+        "wmo_id": "",
+        "mode": "delayed"
+    },
+    "platform": {
+        "comment": "",
+	      "long_name": "OOI Coastal Pioneer NES REMUS 600m AUV A6263",
+        "id": "A6263",
+        "type": "platform",
+        "wmo_id": ""
+    },
+    "trajectory_datetime": "2016-05-30T22:23:00Z",
+    "trajectory_name": "cp_6263-20160530T2223"
+}

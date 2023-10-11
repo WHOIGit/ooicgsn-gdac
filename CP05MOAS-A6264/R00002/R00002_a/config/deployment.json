@@ -1,7 +1,7 @@
 {
     "glider": "cp_6264",
     "global_attributes": {
-        "comment": "",
+        "comment": "The vehicle received an unintended mission break during this mission and was on the surface between approximately 2016-05-30T22:08:00 and 2016-05-31T02:05:00; no data was collected during this period.",
         "deployment_number": "00002",
         "hydrographic_line": "along-shelf",
         "platform_id": "A6264",

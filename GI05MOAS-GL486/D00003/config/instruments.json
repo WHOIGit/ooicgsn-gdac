@@ -17,13 +17,13 @@
         }
     },
     {
-        "nc_var_name": "instrument_flbbcd",
+        "nc_var_name": "instrument_flbb",
         "type": "i4",
         "attrs": {
             "serial_number": "3551",
-            "make_model": "WET Labs ECO Puck FLBBCD",
-            "OOI_series": "FLORT-M",
-            "long_name": "Optical Backscatter, Chlorophyll and CDOM Fluorescence Sensor",
+            "make_model": "WET Labs ECO Puck FLBB",
+            "OOI_series": "FLORD-M",
+            "long_name": "Optical Backscatter and Chlorophyll Fluorescence Sensor",
             "calibration_date": "2023-05-08T00:00:00Z",
             "factory_calibrated": "2023-05-08T00:00:00Z",
             "calibration_report": "FLORD-M_FLBBSLC_SN_3551_Calibration_2023-05-08.pdf",

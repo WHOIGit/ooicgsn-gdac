@@ -300,8 +300,8 @@
             "units": "umol m-2 s-1",
             "valid_max": 6000.0,
             "valid_min": 0.0,
-	    "calibration_dark_offset": 9.4,
-	    "calibration_scale_factor": 6.977
+	    "calibration_dark_offset": 11.0,
+	    "calibration_scale_factor": 6.633
         }
     },
     "o2_oxygen": {

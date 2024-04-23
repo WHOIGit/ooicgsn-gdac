@@ -15,7 +15,7 @@
     "keywords": "Oceans > Ocean Pressure > Water Pressure, Oceans > Ocean Temperature > Water Temperature, Oceans > Salinity/Density > Conductivity, Oceans > Salinity/Density > Density, Oceans > Salinity/Density > Salinity, Oceans > Ocean Chemistry > Chlorophyll, Oceans > Ocean Chemistry > Oxygen, Oceans > Ocean Chemistry > Organic Matter, Oceans > Ocean Optics > Scattering, Oceans > Ocean Optics > Photosynthetically Active Radiation",
     "keywords_vocabulary": "GCMD Science Keywords",
     "license": "OOI Document #1102-00020",
-    "metadata_link": "http://oceanobservatories.org/site/cp05moas/",
+    "metadata_link": "http://oceanobservatories.org/site/",
     "naming_authority": "org.oceanobservatories",
     "platform_type": "Remus AUV",
     "processing_level": "Raw Remus AUV data. No QC performed",

@@ -1,10 +1,10 @@
 {
     "Conventions": "CF-1.6, COARDS, ACDD-1.3",
     "Metadata_Conventions": "CF-1.6, Unidata Dataset Discovery v1.0",
-    "acknowledgment": "Funding provided by the National Science Foundation. AUV deployed by OOI Coastal & Global Scale Nodes (CGSN) personnel at Woods Hole Oceanographic Institution.",
+    "acknowledgment": "Funding provided by the National Science Foundation. Glider deployed by OOI Coastal & Global Scale Nodes (CGSN) personnel at Woods Hole Oceanographic Institution.",
     "cdm_data_type": "Trajectory",
-    "contributor_name": "Al Plueddemann, Derek Buffitt, Peter Brickley, Paul Whelan, Collin Dobson",
-    "contributor_role": "CGSN Principal Investigator/Project Scientist, CGSN Project Manager, CGSN Operations Lead, CGSN Software Manager, CGSN Marine Operator",
+    "contributor_name": "Al Plueddemann, Derek Buffitt, Peter Brickley, Collin Dobson",
+    "contributor_role": "CGSN Principal Investigator/Project Scientist, CGSN Project Manager, CGSN Operations Lead, CGSN Marine Operator",
     "creator_email": "ooi-cgsn-ops@whoi.edu",
     "creator_name": "Collin Dobson",
     "creator_institution": "OOI Coastal & Global Scale Nodes (CGSN)",
@@ -17,8 +17,8 @@
     "license": "OOI Document #1102-00020",
     "metadata_link": "http://oceanobservatories.org/site/",
     "naming_authority": "org.oceanobservatories",
-    "platform_type": "Remus AUV",
-    "processing_level": "Raw Remus AUV data. No QC performed",
+    "platform_type": "Slocum Glider",
+    "processing_level": "Raw Slocum Glider data. A few L2a processed variables. No QC performed",
     "program": "Ocean Observatories Initiative (OOI)",
     "project": "Coastal & Global Scale Nodes (CGSN)",
     "publisher_email": "ooi-cgsn-ops@whoi.edu",
@@ -26,7 +26,7 @@
     "publisher_url": "http://oceanobservatories.org/",
     "references": "http://oceanobservatories.org/",
     "sea_name": "North Atlantic Ocean",
-    "source": "Observational data from a profiling auv",
+    "source": "Observational data from a profiling glider",
     "standard_name_vocabulary": "CF Standard Name Table v68",
-    "summary": "This dataset contains raw Remus AUV data parsed directly from the native auv subset file format. No corrections or other quality control algorithms have been applied."
+    "summary": "This dataset contains raw Slocum glider data parsed directly from the native glider file format. No corrections or other quality control algorithms have been applied."
 }

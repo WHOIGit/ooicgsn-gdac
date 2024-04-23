@@ -1,7 +1,7 @@
 {
     "glider": "cp_6263",
     "global_attributes": {
-        "comment": "",
+        "comment": "The mission clock was 2470 seconds behind UTC/GPS Time for the duration of this mission.",
         "deployment_number": "00001",
         "hydrographic_line": "across-shelf",
         "platform_id": "A6263",

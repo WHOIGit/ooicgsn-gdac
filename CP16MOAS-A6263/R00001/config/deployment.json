@@ -1,0 +1,23 @@
+{
+    "glider": "cp_6263",
+    "global_attributes": {
+        "comment": "",
+        "deployment_number": "00001",
+        "hydrographic_line": "across-shelf",
+        "platform_id": "A6263",
+        "OOI_reference_designator": "CP16MOAS-A6263",
+        "OOI_platform_type": "OOI Coastal Pioneer MAB REMUS 600m",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/CP16MOAS-A6263/R00001/",
+        "wmo_id": "",
+        "mode": "delayed"
+    },
+    "platform": {
+        "comment": "The mission clock was 2470 seconds behind UTC/GPS Time for the duration of this mission.",
+	      "long_name": "OOI Coastal Pioneer MAB REMUS 600m AUV A6263",
+        "id": "A6263",
+        "type": "platform",
+        "wmo_id": ""
+    },
+    "trajectory_datetime": "2024-04-06T12:33:00Z",
+    "trajectory_name": "cp_6263-20240406T1233"
+}

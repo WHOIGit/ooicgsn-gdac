@@ -25,8 +25,8 @@
     "publisher_name": "Ocean Observatories Initiative (OOI)",
     "publisher_url": "http://oceanobservatories.org/",
     "references": "http://oceanobservatories.org/",
-    "sea_name": "North Atlantic Ocean",
+    "sea_name": "Mid-Atlantic Bight",
     "source": "Observational data from a profiling auv",
     "standard_name_vocabulary": "CF Standard Name Table v68",
-    "summary": "This dataset contains raw Remus AUV data parsed directly from the native auv subset file format. No corrections or other quality control algorithms have been applied."
+    "summary": "The Pioneer Mid-Atlantic Bight (MAB) Array, located off the coast of North Carolina, consists of a mooring array supplemented by glider and AUV transects. The Pioneer MAB Array is designed to resolve transport processes and ecosystem dynamics in the vicinity of the shelfbreak front, which is a region of complex oceanographic dynamics, intermittent mesoscale variability, and enhanced biological productivity. The Array collects high-resolution, multidisciplinary, measurements spanning the continental shelf and slope on horizontal scales from a few kilometers to about one hundred kilometers. This dataset contains raw Remus AUV data parsed directly from the native auv subset file format. No corrections or other quality control algorithms have been applied."
 }

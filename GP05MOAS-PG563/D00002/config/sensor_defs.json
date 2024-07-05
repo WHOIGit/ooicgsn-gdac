@@ -440,8 +440,8 @@
         "type": "f8",
         "processing": {
             "source_sensor": "sci_bb3slo_b660_sig",
-            "dark_counts": 40,
-            "scale_factor": 3.764E-6,
+            "dark_counts": 36,
+            "scale_factor": 3.686E-6,
             "wlngth": 650.0,
             "theta": 124.0,
             "xfactor": 1.076
@@ -469,8 +469,8 @@
         "type": "f8",
         "processing": {
             "source_sensor": "sci_bb3slo_b532_sig",
-            "dark_counts": 27,
-            "scale_factor": 7.599E-6,
+            "dark_counts": 40,
+            "scale_factor": 8.210E-6,
             "wlngth": 532.0,
             "theta": 124.0,
             "xfactor": 1.076
@@ -498,8 +498,8 @@
         "type": "f8",
         "processing": {
             "source_sensor": "sci_bb3slo_b470_sig",
-            "dark_counts": 48,
-            "scale_factor": 1.357E-5,
+            "dark_counts": 49,
+            "scale_factor": 1.158-5,
             "wlngth": 470.0,
             "theta": 124.0,
             "xfactor": 1.076

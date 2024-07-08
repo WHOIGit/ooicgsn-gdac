@@ -136,7 +136,7 @@
         "type": "i4",
         "attrs": {
             "ancillary_variables": " ",
-            "instrument": "instrument_ctd, instrument_flbbcd, instrument_par, instrument_oxygen, instrument_bb3slc"
+            "instrument": "instrument_ctd, instrument_flbbcd, instrument_par, instrument_oxygen"
         }
     },
     "profile_id": {
@@ -417,93 +417,6 @@
         "dimension": "time",
         "nc_var_name": "backscatter",
         "type": "f8"
-    },
-    "backscatter_650": {
-        "attrs": {
-            "_FillValue": NaN,
-            "accuracy": " ",
-            "ancillary_variables": "instrument_bb3slc radiation_wavelength",
-            "instrument": "instrument_bb3slc",
-            "long_name": "Optical Backscatter (red wavelengths)",
-            "OOI_data_product_name": "FLUBSCT",
-            "OOI_data_level": "L2a",
-            "observation_type": "calculated",
-            "platform": "platform",
-            "precision": " ",
-            "radiation_wavelength": "650nm",
-            "resolution": "0.001",
-            "standard_name": "volume_backwards_scattering_coefficient_of_radiative_flux_in_sea_water",
-            "units": "m-1"
-        },
-        "dimension": "time",
-        "nc_var_name": "backscatter_650",
-        "type": "f8",
-        "processing": {
-            "source_sensor": "sci_bb3slo_b660_sig",
-            "dark_counts": 36,
-            "scale_factor": 3.686E-6,
-            "wlngth": 650.0,
-            "theta": 124.0,
-            "xfactor": 1.076
-        }
-    },
-    "backscatter_532": {
-        "attrs": {
-            "_FillValue": NaN,
-            "accuracy": " ",
-            "ancillary_variables": "instrument_bb3slc radiation_wavelength",
-            "instrument": "instrument_bb3slc",
-            "long_name": "Optical Backscatter (blue wavelengths)",
-            "OOI_data_product_name": "FLUBSCT",
-            "OOI_data_level": "L2a",
-            "observation_type": "calculated",
-            "platform": "platform",
-            "precision": " ",
-            "radiation_wavelength": "532nm",
-            "resolution": "0.001",
-            "standard_name": "volume_backwards_scattering_coefficient_of_radiative_flux_in_sea_water",
-            "units": "m-1"
-        },
-        "dimension": "time",
-        "nc_var_name": "backscatter_532",
-        "type": "f8",
-        "processing": {
-            "source_sensor": "sci_bb3slo_b532_sig",
-            "dark_counts": 40,
-            "scale_factor": 8.210E-6,
-            "wlngth": 532.0,
-            "theta": 124.0,
-            "xfactor": 1.076
-        }
-    },
-    "backscatter_470": {
-        "attrs": {
-            "_FillValue": NaN,
-            "accuracy": " ",
-            "ancillary_variables": "instrument_bb3slc radiation_wavelength",
-            "instrument": "instrument_bb3slc",
-            "long_name": "Optical Backscatter (blue wavelengths)",
-            "OOI_data_product_name": "FLUBSCT",
-            "OOI_data_level": "L2a",
-            "observation_type": "calculated",
-            "platform": "platform",
-            "precision": " ",
-            "radiation_wavelength": "470nm",
-            "resolution": "0.001",
-            "standard_name": "volume_backwards_scattering_coefficient_of_radiative_flux_in_sea_water",
-            "units": "m-1"
-        },
-        "dimension": "time",
-        "nc_var_name": "backscatter_470",
-        "type": "f8",
-        "processing": {
-            "source_sensor": "sci_bb3slo_b470_sig",
-            "dark_counts": 49,
-            "scale_factor": 1.158E-5,
-            "wlngth": 470.0,
-            "theta": 124.0,
-            "xfactor": 1.076
-        }
     },
     "sci_bsipar_par": {
         "attrs": {

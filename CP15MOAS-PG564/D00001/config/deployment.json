@@ -1,0 +1,23 @@
+{
+    "glider": "cp_564",
+    "global_attributes": {
+        "comment": "",
+        "deployment_number": "00001",
+        "hydrographic_line": "Offshore (OF)",
+        "platform_id": "cp_564",
+        "OOI_reference_designator": "CP15MOAS-PG564",
+        "OOI_platform_type": "OOI Costal Pioneer 1000m Profiling Glider",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/CP15MOAS-PG564/D00001/",
+        "wmo_id": "4801989",
+        "mode": "rt"
+    },
+    "platform": {
+        "comment": "",
+        "long_name": "OOI Coastal Pioneer 1000m Profiling Slocum Glider cp_564",
+        "id": "cp_564",
+        "type": "platform",
+        "wmo_id": "4801989"
+    },
+    "trajectory_datetime": "2024-06-30T13:27:00Z",
+    "trajectory_name": "cp_564-20240630T1327"
+}

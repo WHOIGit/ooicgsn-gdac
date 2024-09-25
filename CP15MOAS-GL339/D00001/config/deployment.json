@@ -1,0 +1,23 @@
+{
+    "glider": "cp_339",
+    "global_attributes": {
+        "comment": "This glider was deployed with a slightly modified optode to improve calibration by exposing it to air. The optode mount was moved to a spot slightly forward of the glider's fin and oriented so that the optode would be above the waterline when the glider was at the surface. The optode is powered and logging during the air surface intervals before starting a dive.",
+        "deployment_number": "00002",
+        "hydrographic_line": "Cross-shelf (CS)",
+        "platform_id": "cp_339",
+        "OOI_reference_designator": "CP15MOAS-GL339",
+        "OOI_platform_type": "OOI Coastal Pioneer MAB 200m Glider",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/CP15MOAS-GL339/D00001/",
+        "wmo_id": "4801957",
+        "mode": "rt"
+    },
+    "platform": {
+        "comment": "",
+        "long_name": "OOI Coastal Pioneer MAB 200m Slocum Glider cp_339",
+        "id": "cp_339",
+        "type": "platform",
+        "wmo_id": "4801957"
+    },
+    "trajectory_datetime": "2024-08-21T15:07:00Z",
+    "trajectory_name": "cp_339-20240821T1507"
+}

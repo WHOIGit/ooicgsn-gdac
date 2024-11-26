@@ -1,0 +1,23 @@
+{
+    "glider": "cp_514",
+    "global_attributes": {
+        "comment": "This glider was deployed with a slightly modified optode to improve calibration by exposing it to air. The optode mount was moved to a spot slightly forward of the glider's fin and oriented so that the optode would be above the waterline when the glider was at the surface. The optode is powered and logging during the air surface intervals before starting a dive.",
+        "deployment_number": "00001",
+        "hydrographic_line": "Offshore (OF)",
+        "platform_id": "cp_514",
+        "OOI_reference_designator": "CP15MOAS-PG514",
+        "OOI_platform_type": "OOI Coastal Pioneer 1000m Profiling Glider",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/CP15MOAS-PG514/D00001/",
+        "wmo_id": "4802972",
+        "mode": "rt"
+    },
+    "platform": {
+        "comment": "",
+        "long_name": "OOI Coastal Pioneer 1000m Profiling Slocum Glider cp_514",
+        "id": "cp_514",
+        "type": "platform",
+        "wmo_id": "4802972"
+    },
+    "trajectory_datetime": "2024-11-20T16:55:00Z",
+    "trajectory_name": "cp_514-20241120T1655"
+}

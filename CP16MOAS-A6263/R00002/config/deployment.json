@@ -1,0 +1,23 @@
+{
+    "glider": "cp_6263",
+    "global_attributes": {
+        "comment": "across-shelf survey; AC-1 to AC-4",
+        "deployment_number": "00002",
+        "hydrographic_line": "across-shelf",
+        "platform_id": "A6263",
+        "OOI_reference_designator": "CP16MOAS-A6263",
+        "OOI_platform_type": "OOI Coastal Pioneer MAB REMUS 600m",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/CP16MOAS-A6263/R00002/",
+        "wmo_id": "",
+        "mode": "delayed"
+    },
+    "platform": {
+        "comment": "across-shelf survey; AC-1 to AC-4",
+	      "long_name": "OOI Coastal Pioneer MAB REMUS 600m AUV A6263",
+        "id": "A6263",
+        "type": "platform",
+        "wmo_id": ""
+    },
+    "trajectory_datetime": "2025-02-22T18:43:00Z",
+    "trajectory_name": "cp_6263-20250222T1843"
+}

@@ -100,7 +100,7 @@
         "nc_var_name": "instrument_adcp",
         "type": "i4",
         "attrs": {
-            "serial_number": "22076",
+            "serial_number": "22077",
             "make_model": "RDI WorkHorse Navigator",
             "OOI_series": "ADCPA-N",
             "long_name": "Acoustic Doppler Current Profiler",

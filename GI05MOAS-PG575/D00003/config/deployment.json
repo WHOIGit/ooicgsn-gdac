@@ -1,0 +1,23 @@
+{
+    "glider": "gi_575",
+    "global_attributes": {
+        "comment": "Glider leaked and was recovered shortly after deployment.",
+        "deployment_number": "00003",
+        "hydrographic_line": "",
+        "platform_id": "gi_575",
+        "OOI_reference_designator": "GI05MOAS-PG575",
+        "OOI_platform_type": "OOI Global Irminger Sea 1000m Profiling Glider",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/GI05MOAS-PG575/R00003/",
+        "wmo_id": "6801744",
+        "mode": "delayed"
+    },
+    "platform": {
+        "comment": "",
+        "long_name": "OOI Global Irminger Sea 1000m Profiling Slocum Glider gi_575",
+        "id": "gi_575",
+        "type": "platform",
+        "wmo_id": "6801744"
+    },
+    "trajectory_datetime": "2022-06-28T17:24:00Z",
+    "trajectory_name": "gi_575-20220628T1724"
+}

@@ -3,7 +3,7 @@
     "global_attributes": {
         "comment": "along-shelf survey; AL-1 to AL-7",
         "deployment_number": "00003",
-        "hydrographic_line": "across-shelf",
+        "hydrographic_line": "along-shelf",
         "platform_id": "A6264",
         "OOI_reference_designator": "CP16MOAS-A6264",
         "OOI_platform_type": "OOI Coastal Pioneer MAB REMUS 600m",

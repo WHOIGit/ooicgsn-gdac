@@ -8,7 +8,7 @@
         "OOI_reference_designator": "CP15MOAS-G1145",
         "OOI_platform_type": "OOI Coastal Pioneer MAB 350m Glider",
         "raw_data_url": "https://rawdata.oceanobservatories.org/files/CP15MOAS-G1145/D00001/",
-        "wmo_id": "",
+        "wmo_id": "8901133",
         "mode": "rt"
     },
     "platform": {
@@ -16,7 +16,7 @@
         "long_name": "OOI Coastal Pioneer MAB 350m Slocum Glider cp_1145",
         "id": "cp_1145",
         "type": "platform",
-        "wmo_id": ""
+        "wmo_id": "8901133"
     },
     "trajectory_datetime": "2025-04-05T00:11:00Z",
     "trajectory_name": "cp_1145-20250405T0011"

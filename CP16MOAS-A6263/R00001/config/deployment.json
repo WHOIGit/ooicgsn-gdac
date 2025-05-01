@@ -1,7 +1,7 @@
 {
     "glider": "cp_6263",
     "global_attributes": {
-        "comment": "The mission clock was 2470 seconds behind UTC/GPS Time for the duration of this mission.",
+        "comment": "The mission clock was 2470 seconds behind UTC/GPS Time for the duration of this mission. Across-shelf survey; AC-1 to AC-2",
         "deployment_number": "00001",
         "hydrographic_line": "across-shelf",
         "platform_id": "A6263",
@@ -12,7 +12,7 @@
         "mode": "delayed"
     },
     "platform": {
-        "comment": "The mission clock was 2470 seconds behind UTC/GPS Time for the duration of this mission.",
+        "comment": "The mission clock was 2470 seconds behind UTC/GPS Time for the duration of this mission. Across-shelf survey; AC-1 to AC-2",
 	      "long_name": "OOI Coastal Pioneer MAB REMUS 600m AUV A6263",
         "id": "A6263",
         "type": "platform",

@@ -1,0 +1,23 @@
+{
+    "glider": "gp_363",
+    "global_attributes": {
+        "comment": "OOI Open Ocean Gliders are typically deployed with a WET Labs ECO Puck FLBB (FLORD - 2 Channel), but this glider was deployed with a WET Labs ECO Puck FLBBCD (FLORT - 3 Channel). This glider was deployed with a slightly modified optode to improve calibration by exposing it to air. The optode mount was moved to a spot slightly forward of the glider's fin and oriented so that the optode would be above the waterline when the glider was at the surface. The optode is powered and logging during the air surface intervals before starting a dive.",
+        "deployment_number": "00007",
+        "hydrographic_line": "",
+        "platform_id": "gp_363",
+        "OOI_reference_designator": "GP05MOAS-GL363",
+        "OOI_platform_type": "OOI Global Station Papa 1000m Open Ocean Glider",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/GP05MOAS-GL363/R00007/",
+        "wmo_id": "4801994",
+        "mode": "delayed"
+    },
+    "platform": {
+        "comment": "",
+        "long_name": "OOI Global Station Papa 1000m Open Ocean Slocum Glider gp_363",
+        "id": "gp_363",
+        "type": "platform",
+        "wmo_id": "4801994"
+    },
+    "trajectory_datetime": "2024-06-01T15:54:00Z",
+    "trajectory_name": "gp_363-20240601T1554"
+}

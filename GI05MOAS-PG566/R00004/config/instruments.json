@@ -1,0 +1,85 @@
+[
+    {
+        "nc_var_name": "instrument_ctd",
+        "type": "i4",
+        "attrs": {
+            "serial_number": "9295",
+            "make_model": "Sea-Bird GPCTD",
+            "OOI_series": "CTDGV-M",
+            "comment": "pumped CTD",
+            "long_name": "Seabird Glider Payload CTD",
+            "calibration_date": "2022-08-09T00:00:00Z",
+            "factory_calibrated": "2022-08-09T00:00:00Z",
+            "calibration_report": "CTDGV-M_SBE-Slocum_SN_9295_Calibration_2022-08-09.pdf",
+            "calibration_directory_url": "",
+            "type": "platform",
+            "platform": "platform"
+        }
+    },
+    {
+        "nc_var_name": "instrument_flbbcd",
+        "type": "i4",
+        "attrs": {
+            "serial_number": "4089",
+            "make_model": "WET Labs ECO Puck FLBBCD",
+            "OOI_series": "FLORT-M",
+            "long_name": "Optical Backscatter, Chlorophyll and CDOM Fluorescence Sensor",
+            "calibration_date": "2022-08-05T00:00:00Z",
+            "factory_calibrated": "2022-08-05T00:00:00Z",
+            "calibration_report": "FLORT-M_FLBBCDSLC_SN_4089_Calibration_2022-08-05.pdf",
+            "calibration_directory_url": "",
+            "type": "instrument",
+            "platform": "platform"
+        }
+    },
+    {
+        "nc_var_name": "instrument_bb3slc",
+        "type": "i4",
+        "attrs": {
+            "serial_number": "1347",
+            "make_model": "WET Labs ECO Puck FLBBCD",
+            "OOI_series": "FLORT-O",
+            "long_name": "Optical Backscatter",
+            "calibration_date": "2022-08-02T00:00:00Z",
+            "factory_calibrated": "2022-08-02T00:00:00Z",
+            "calibration_report": "FLORT-O_BB3SLC_SN_1347_Calibration_2022-08-02.pdf",
+            "calibration_directory_url": "",
+            "type": "instrument",
+            "platform": "platform"
+        }
+    },
+    {
+        "nc_var_name": "instrument_par",
+        "type": "i4",
+        "attrs": {
+            "serial_number": "50202",
+            "make_model": "Biospherical QSP-2155",
+            "OOI_series": "PARAD-M",
+            "long_name": "Photosynthetically Active Radiation (PAR) Sensor",
+            "calibration_date": "2022-07-26T00:00:00Z",
+            "factory_calibrated": "2022-07-26T00:00:00Z",
+            "calibration_report": "PARAD-M_QSP2155_SN_50202_Calibration_2022-07-26.pdf",
+            "calibration_directory_url": "",
+            "type": "instrument",
+            "platform": "platform"
+        }
+    },
+    {
+        "nc_var_name": "instrument_oxygen",
+        "type": "i4",
+        "attrs": {
+            "serial_number": "361",
+            "make_model": "Aanderaa Optode 4831",
+            "OOI_series": "DOSTA-M",
+            "long_name": "Dissolved Oxygen Sensor",
+            "calibration_date": "2022-02-21T00:00:00Z",
+            "comment": "Offset from pressure sensor = 0.917 m",
+            "offset_from_depth_sensor": "0.917m",
+            "factory_calibrated": "2022-02-21T00:00:00Z",
+            "calibration_report": "DOSTA-M_Optode-4831_SN_361_Calibration_2022-02-21.pdf",
+            "calibration_directory_url": "",
+            "type": "instrument",
+            "platform": "platform"
+        }
+    }
+]

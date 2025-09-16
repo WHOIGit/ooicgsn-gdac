@@ -1,0 +1,23 @@
+{
+    "glider": "gi_566",
+    "global_attributes": {
+        "comment": "This glider was deployed with a slightly modified optode to improve calibration by exposing it to air. The optode mount was moved to a spot slightly forward of the glider's fin and oriented so that the optode would be above the waterline when the glider was at the surface. The optode is powered and logging during the air surface intervals before starting a dive.",
+        "deployment_number": "00004",
+        "hydrographic_line": "",
+        "platform_id": "gi_566",
+        "OOI_reference_designator": "GI05MOAS-PG566",
+        "OOI_platform_type": "OOI Global Irminger Sea 1000m Profiling Glider",
+        "raw_data_url": "https://rawdata.oceanobservatories.org/files/GI05MOAS-PG566/R00004/",
+        "wmo_id": "8901071",
+        "mode": "delayed"
+    },
+    "platform": {
+        "comment": "",
+        "long_name": "OOI Global Irminger Sea 1000m Profiling Slocum Glider gi_566",
+        "id": "gi_566",
+        "type": "platform",
+        "wmo_id": "8901071"
+    },
+    "trajectory_datetime": "2024-06-16T20:13:00Z",
+    "trajectory_name": "gi_566-20240616T2013"
+}

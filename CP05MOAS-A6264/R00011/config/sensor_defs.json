@@ -276,7 +276,8 @@
             "valid_max": 375.0,
             "valid_min": 0.0,
             "calibration_dark_offset": 50.0,
-            "calibration_scale_factor": 0.0783
+            "calibration_scale_factor": 0.0783,
+            "correction_scale_factor": 1.609525
 	}
     },
     "par_calc_irradiance": {

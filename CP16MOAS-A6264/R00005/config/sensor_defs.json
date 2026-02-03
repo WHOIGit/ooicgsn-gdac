@@ -140,7 +140,7 @@
         "attrs": {
             "axis": "Z",
             "long_name": "Pressure",
-            "observation_type": "calculated",
+            "observation_type": "measured",
             "OOI_data_product_name": "PRESWAT",
             "OOI_data_level": "L1a",
             "positive": "down",
@@ -251,8 +251,8 @@
             "units": "ug L-1",
             "valid_max": 350.0,
             "valid_min": 0.01,
-            "calibration_dark_offset": 48.0,
-            "calibration_scale_factor": 0.0120
+            "calibration_dark_offset": 50.0,
+            "calibration_scale_factor": 0.0121
 	}
     },
     "flort_cdom":{
@@ -275,9 +275,8 @@
             "standard_name": "concentration_of_colored_dissolved_organic_matter_in_sea_water_expressed_as_equivalent_mass_fraction_of_quinine_sulfate_dihydrate",            "units": "ppb",
             "valid_max": 375.0,
             "valid_min": 0.0,
-            "calibration_dark_offset": 49.0,
-            "calibration_scale_factor": 0.0908,
-            "correction_scale_factor": 1.669857
+            "calibration_dark_offset": 56.0,
+            "calibration_scale_factor": 0.0910
 	}
     },
     "par_calc_irradiance": {
@@ -300,9 +299,9 @@
             "standard_name": "downwelling_photosynthetic_photon_spherical_irradiance_in_sea_water",
             "units": "umol m-2 s-1",
             "valid_max": 6000.0,
-            "valid_min": 0.0,
-	    "calibration_dark_offset": 10.6,
-	    "calibration_scale_factor": 6.02831
+            "valid_min": -6000.0,
+	    "calibration_dark_offset": 11.0,
+	    "calibration_scale_factor": 6.633
         }
     },
     "o2_oxygen": {

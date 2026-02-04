@@ -1,7 +1,7 @@
 {
     "glider": "cp_6264",
     "global_attributes": {
-        "comment": "",
+        "comment": "The CDOM variable has been corrected for a bias as notified by the vendor. See the CDOM variable comment attribute for more info.",
         "deployment_number": "00017",
         "hydrographic_line": "across-shelf",
         "platform_id": "A6264",

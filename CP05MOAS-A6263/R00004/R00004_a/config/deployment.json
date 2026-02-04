@@ -1,7 +1,7 @@
 {
     "glider": "cp_6263",
     "global_attributes": {
-        "comment": "This deployment (R00004) consists of two smaller deployments: a cross-shelf transect from 2017-06-10T12:15 to 2017-06-11T00:36 and an along-shelf transect from 2017-06-11T02:44 to 2017-06-11T23:17UTC. The first across-shelf transect was broken into two smaller runs (Runs A and B) because the mission had to be aborted so parameters could be updated. These files are associated with Run A only.",
+        "comment": "This deployment (R00004) consists of two smaller deployments: a cross-shelf transect from 2017-06-10T12:15 to 2017-06-11T00:36 and an along-shelf transect from 2017-06-11T02:44 to 2017-06-11T23:17UTC. The first across-shelf transect was broken into two smaller runs (Runs A and B) because the mission had to be aborted so parameters could be updated. These files are associated with Run A only. The CDOM variable has been corrected for a bias as notified by the vendor. See the CDOM variable comment attribute for more info.",
         "deployment_number": "00004",
         "hydrographic_line": "across-shelf",
         "platform_id": "A6263",

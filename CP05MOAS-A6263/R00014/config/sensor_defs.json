@@ -276,7 +276,8 @@
             "valid_max": 375.0,
             "valid_min": 0.0,
             "calibration_dark_offset": 48.0,
-            "calibration_scale_factor": 0.0911
+            "calibration_scale_factor": 0.0911,
+            "comment": "CDOM has been adjusted for a bias due to improperly prepared calibration standards using a correction factor provided by Sea-Bird. The issue is described in further detail at https://oceanobservatories.org/2024/12/sbs-issues-notice-for-certain-cdom-fluorometers/"
 	}
     },
     "par_calc_irradiance": {

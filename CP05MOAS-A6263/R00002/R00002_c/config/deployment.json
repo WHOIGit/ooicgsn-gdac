@@ -1,7 +1,7 @@
 {
     "glider": "cp_6263",
     "global_attributes": {
-        "comment": "This deployment consists of two smaller deployments: the first was 2016-05-29T12:35:26 through 2016-05-29T22:51:00 and the second 2016-05-30T22:23:00 through 2016-05-31T14:30:00. These files are associated with the second smaller deployment only. The second deployment received an unintended mission break shortly after deployment and the vehicle was on the surface between approximately 2016-05-30T22:59:00 and 2016-05-30T23:36:00; no science sensor data was collected during this period. Only data collected after the mission resumed at 2016-05-30T23:36:00 are ingested.",
+        "comment": "This deployment consists of two smaller deployments: the first was 2016-05-29T12:35:26 through 2016-05-29T22:51:00 and the second 2016-05-30T22:23:00 through 2016-05-31T14:30:00. These files are associated with the second smaller deployment only. The second deployment received an unintended mission break shortly after deployment and the vehicle was on the surface between approximately 2016-05-30T22:59:00 and 2016-05-30T23:36:00; no science sensor data was collected during this period. Only data collected after the mission resumed at 2016-05-30T23:36:00 are ingested. The CDOM variable has been corrected for a bias as notified by the vendor. See the CDOM variable comment attribute for more info.",
         "deployment_number": "00002",
         "hydrographic_line": "across-shelf",
         "platform_id": "A6263",

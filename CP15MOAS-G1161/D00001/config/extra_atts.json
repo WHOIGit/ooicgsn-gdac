@@ -1,0 +1,25 @@
+{
+  "instrument_flbbcd": {
+    "calibration_directory_url": ""
+  },
+  "instrument_oxygen": {
+    "calibration_directory_url": ""
+  },
+  "instrument_ctd": {
+    "calibration_directory_url": "NA"
+  },
+  "instrument_par": {
+    "calibration_directory_url": ""
+  },
+  "PAR": {
+    "standard_name": "omnidirectional_photosynthetic_spherical_irradiance_in_sea_water"
+  },
+  "_global_attrs": {
+    "history": "2026-05-14T17:56:01Z: cp_1161-20260429T1445_rt.nc created\n2026-05-14 Corrected CDOM with extra_atts.json",
+    "comment": "This glider was deployed with a slightly modified optode to improve calibration by exposing it to air. The optode mount was moved to a spot slightly forward of the glider's fin and oriented so that the optode would be above the waterline when the glider was at the surface. The optode is powered and logging during the air surface intervals before starting a dive.; 2026-05-14 The CDOM variable has been corrected for a bias as notified by the vendor. See the CDOM variable comment attribute for more info."
+  },
+  "CDOM": {
+    "scale_factor": 4.261157,
+    "comment": "CDOM has been adjusted for a bias due to improperly prepared calibration standards using a correction factor provided by Sea-Bird. The issue is described in further detail at https://oceanobservatories.org/2024/12/sbs-issues-notice-for-certain-cdom-fluorometers/"
+  }
+}
